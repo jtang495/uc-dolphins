@@ -32,8 +32,8 @@
 	      <div id="wowslider-container1">
             <div class="ws_images">
                <ul>
-                  <li><img src="slider-img/slide-01.jpg" alt="Title 1" title="Title 1" id="wows1_0"/>Description 1</li>
-                  <li><img src="slider-img/slide-02.jpg" alt="Slide 2" title="Slide 2" id="wows1_1"/>Description 2</li>
+                  <li><img src="slider-img/images/slide-01.jpg" alt="Title 1" title="Title 1" id="wows1_0"/>Description 1</li>
+                  <li><img src="slider-img/images/slide-02.jpg" alt="Slide 2" title="Slide 2" id="wows1_1"/>Description 2</li>
                </ul>
             </div>
             <div class="ws_bullets">
