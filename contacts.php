@@ -39,7 +39,7 @@
                      jsuzich@comcast.net<br>
                      (301) 990-6088</p>
                      <p>Lori Littrell</p>
-                     <h3>Treasurer<h3>
+                     <h3>Treasurer</h3>
                      <p>Melanie O'Leary</br>
                      oleary25@verizon.net</br>
                      (301) 253-2631</p>
