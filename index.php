@@ -25,7 +25,7 @@
 
          <!-- Carousel
          ================================================== -->
-         <div id="myCarousel" class="carousel slide">
+         <div id="main-carousel" class="carousel slide">
             <div class="carousel-inner">
                <div class="item active">
                   <img src="img/slide-01.jpg" alt="">
@@ -38,7 +38,7 @@
                   </div>
                </div>
                <div class="item">
-                  <img src="../assets/img/examples/slide-02.jpg" alt="">
+                  <img src="img/slide-02.jpg" alt="">
                   <div class="container">
                      <div class="carousel-caption">
                         <h1>2013 Spirit Wear has Arrived!</h1>
@@ -48,14 +48,15 @@
                   </div>
                </div>
             </div>
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+            <a class="left carousel-control" href="#main-carousel" data-slide="prev">&lsaquo;</a>
+            <a class="right carousel-control" href="#main-carousel" data-slide="next">&rsaquo;</a>
          </div><!-- /.carousel -->
 
          <!-- SOCIAL BAR
          ================================================ -->
          <div class="social">
             <div class="container">
+               Random "follow us on facebook, twitter, google groups stuff" here?
             </div>
          </div>
 
@@ -67,15 +68,26 @@
             <div class="marketing">
                <!-- Three columns of text below the carousel -->
                <div class="row-fluid">
-	               <div class="span4">
+                  <div class="span8">
+                     <div class="alert alert-error">
+                        <button type="button" class="close" data-dismiss="alert">&times;</button>
+                        <strong>05/27 6:59 pm:</strong> Woohoo! First deployment successful. But really, this space is reserved for emergency announcements ;)
+                     </div>
+                     <h2 class="featurette-heading">What to put here? <span class="muted">Beats me...</span></h2>
+                  </div><!-- /.span8 -->
+                  <div class="span4">
                      <img class="img" src="img/dolphin-logo.jpg" width="150px">
-	                  <h2>Registration is Open!</h2>
+	                  <h3>Registration is open!</h3>
 	                  <p>Upper County Dolphins is a Division A swim team in the Montgomery County Swim League (MCSL). We are #2 in the top division! Register online. Our course number is 351003.</p>
 	                  <p><a class="btn" href="#">Register Online &raquo;</a></p>
-                  </div><!-- /.span4 -->
-                  <div class="span4">
+                     <hr>
+                     <img class="img" src="img/calendar.png" width="150px">
+	                  <h3>Stay up to date!</h3>
+	                  <p>View the practice schedule, meets, team gatherings, and other important MCSL dates.</p>
+	                  <p><a class="btn" href="#">View Calendar &raquo;</a></p>
+                     <hr>
                      <img class="img-circle" src="img/life-jacket.jpg" width="150px">
-                     <h2>New to Summer League?</h2>
+                     <h3>New to summer league?</h3>
                      <p>Click below to read through the survival guide!</p>
 	                  <p><a class="btn" href="#">Swim Team Survival Guide &raquo;</a></p>
                   </div><!-- /.span4 -->
@@ -86,12 +98,9 @@
       </div><!-- /.wrap -->
       <?php require 'footer.inc.php' ?>
       <script>
-         !function ($) {
-            $(function(){
-            // carousel demo
-            $('#myCarousel').carousel()
-            })
-         }(window.jQuery)
+         $('#main-carousel').carousel({
+            interval: 5000
+         })
       </script>
    </body>
 </html>
