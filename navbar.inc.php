@@ -16,11 +16,10 @@ positioned parent. -->
                   <li class="dropdown">
                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team Info<b class="caret"></b></a>
                      <ul class="dropdown-menu">
-                        <li><a href="info.php#pool">Pool Info</a></li>
-                        <li><a href="info.php#schedule">Schedule</a></li>
-                        <li><a href="info.php#meets">Meets</a></li>
-                        <li><a href="info.php#events">Events</a></li>
-                        <li><a href="info.php#contacts">Contacts</a></li>
+                        <li><a href="pool-info.php">Pool Information</a></li>
+                        <li><a href="schedule.php">Practice and Meet Schedules</a></li>
+                        <li><a href="events.php">Events and Outings</a></li>
+                        <li><a href="#">Contacts</a></li>
                      </ul>
                   </li>
                   <li class="dropdown">
