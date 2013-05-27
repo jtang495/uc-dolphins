@@ -23,6 +23,7 @@
       <div id="wrap">
          <!-- Include navigation bar -->
          <?php require 'navbar.inc.php' ?>
+         <div id="push"></div>
          <!-- Wrap the rest of the page in another container to center all the content. -->
          <div class="container">
             <div class="marketing">
