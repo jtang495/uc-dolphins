@@ -42,8 +42,6 @@
                   <a href="#" title="Slide 2"><img src="slider-img/tooltips/slide-02.jpg" alt="Slide 2"/>2</a>
                </div>
             </div>
-            <span class="wsl"><a href="http://wowslider.com">Slideshow Joomla</a> by WOWSlider.com v3.8</span>
-	         <div class="ws_shadow"></div>
 	      </div>
 	      <script type="text/javascript" src="slider-js/wowslider.js"></script>
 	      <script type="text/javascript" src="slider-js/script.js"></script>
