@@ -10,17 +10,17 @@ positioned parent. -->
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="index.html">Upper County Dolphins</a>
+            <a class="brand" href="index.php">Upper County Dolphins</a>
             <div class="nav-collapse collapse">
                <ul class="nav">
                   <li class="dropdown">
                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team Info<b class="caret"></b></a>
                      <ul class="dropdown-menu">
-                        <li><a href="info.html#pool">Pool Info</a></li>
-                        <li><a href="info.html#schedule">Schedule</a></li>
-                        <li><a href="info.html#meets">Meets</a></li>
-                        <li><a href="info.html#events">Events</a></li>
-                        <li><a href="info.html#contacts">Contacts</a></li>
+                        <li><a href="info.php#pool">Pool Info</a></li>
+                        <li><a href="info.php#schedule">Schedule</a></li>
+                        <li><a href="info.php#meets">Meets</a></li>
+                        <li><a href="info.php#events">Events</a></li>
+                        <li><a href="info.php#contacts">Contacts</a></li>
                      </ul>
                   </li>
                   <li class="dropdown">
@@ -46,7 +46,7 @@ positioned parent. -->
                      </ul>
                   </li>
                   <li><a href="#contact">Volunteer</a></li>
-                  <li><a href="coaches.html">Coaches</a></li>
+                  <li><a href="coaches.php">Coaches</a></li>
                   <li><a href="#records">Records</a></li>
                </ul><!-- /.nav -->
             </div><!--/.nav-collapse -->
