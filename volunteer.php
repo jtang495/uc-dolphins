@@ -25,23 +25,51 @@
          <!-- Wrap the rest of the page in another container to center all the content. -->
          <div class="container">
             <div class="marketing">
-                  <!-- START THE FEATURETTES -->
-                  <div class="featurette">
-                     <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
-                     <h2 class="featurette-heading">Volunteering. <span class="muted">We need your help.</span></h2>
-                     <p class="lead">Parent volunteers are critical to the success of the swim season. It takes between 45 to 60 parents to run a swim meet! Many jobs require little to no experience such as timing and selling food at concessions. Other jobs such as referee, starter, and stroke/turn judge require certification. Although most jobs are suited for adults, some jobs can be performed by older swimmers such as runner, ribbon writer, verifier, and clerk of course.</p>
-                     <div class="alert alert-info">
-                        <strong>Heads up!</strong> The volunteer requirement per family is 5 obligations. Failure to fulfill this mandatory obligation will result a forfeiture of your child's priviledge to participate in meets.
+               <div class="row-fluid">
+                  <div class="span7">
+                     <!-- START THE FEATURETTES -->
+                     <div class="featurette">
+                        <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
+                        <h2 class="featurette-heading">Volunteering. <span class="muted">We need your help.</span></h2>
+                        <p class="lead">Parent volunteers are critical to the success of the swim season. It takes between 45 to 60 parents to run a swim meet! Many jobs require little to no experience such as timing and selling food at concessions. Other jobs such as referee, starter, and stroke/turn judge require certification. Although most jobs are suited for adults, some jobs can be performed by older swimmers such as runner, ribbon writer, verifier, and clerk of course.</p>
+                        <div class="alert alert-info">
+                           <strong>Heads up!</strong> The volunteer requirement per family is 5 obligations. Failure to fulfill this mandatory obligation will result a forfeiture of your child's priviledge to participate in meets.
+                        </div>
+                        <button class="btn btn-large btn-primary" type="button">Sign up now! <i class="icon-user"></i></button>
                      </div>
-                     <button class="btn btn-large btn-primary" type="button">Sign up now! <i class="icon-user"></i></button>
-                  </div>
-                  <hr class="featurette-divider">
-                  <div class="featurette">
-                     <h2 class="featurette-heading">Community Service. <span class="muted">Earn SSL hours.</span></h2>
-                     <p class="lead">Middle and high school swimmers and their siblings can earn SSL hours by volunteering at meets. Our volunteer coordinator can keep track of your swimmers' SSL hours and provide a SSL form with their accumulated hours at the end of the season.</p>
-                 </div>
-                  <hr class="featurette-divider">
-                  <!-- /END THE FEATURETTES -->
+                     <hr class="featurette-divider">
+                     <div class="featurette">
+                        <h2 class="featurette-heading">Community Service. <span class="muted">Earn SSL hours.</span></h2>
+                        <p class="lead">Middle and high school swimmers and their siblings can earn SSL hours by volunteering at meets. Our volunteer coordinator can keep track of your swimmers' SSL hours and provide a SSL form with their accumulated hours at the end of the season.</p>
+                     </div>
+                     <hr class="featurette-divider">
+                     <!-- /END THE FEATURETTES -->
+                  </div><!-- /.span7 -->
+                  <div class="span5">
+                     <div class="accordion" id="jobs-accordion">
+                        <div class="accordion-group">
+                           <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseTimer">Timer</a>
+                           </div>
+                           <div id="#collapseTimer" class="accordion-body collapse in">
+                              <div class="accordion-inner">
+                                 The responsibilities of the timer are as follows:
+                              </div>
+                           </div>
+                        </div><!-- /.accordion-group -->
+                        <div class="accordion-group">
+                           <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseRunner">Runner</a>
+                           </div>
+                           <div id="#collapseRunner" class="accordion-body collapse in">
+                              <div class="accordion-inner">
+                                 The responsibilites of the runner are as follows:
+                              </div>
+                           </div>
+                        </div><!-- /.accordion-group -->
+                     </div><!-- /.accordion -->
+                  </div><!-- /.span5 -->
+               </div><!-- /.row-fluid -->
             </div><!-- /.marketing -->
          </div><!-- /.container -->
          <div id="push"></div>
