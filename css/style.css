@@ -55,6 +55,10 @@ body {
    margin-top: 10px;
 }
 
+/* BUG FIX FOR IPHONE */
+.dropdown-backdrop {
+   position: static;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
