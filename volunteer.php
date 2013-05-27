@@ -30,12 +30,15 @@
                      <!-- START THE FEATURETTES -->
                      <div class="featurette">
                         <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
-                        <h2 class="featurette-heading">Volunteering. <span class="muted">We need your help.</span></h2>
+                        <h2 class="featurette-heading">Volunteering. <span class="muted">We need your help!</span></h2>
                         <p class="lead">Parent volunteers are critical to the success of the swim season. It takes between 45 to 60 parents to run a swim meet! Many jobs require little to no experience such as timing and selling food at concessions. Other jobs such as referee, starter, and stroke/turn judge require certification. Although most jobs are suited for adults, some jobs can be performed by older swimmers such as runner, ribbon writer, verifier, and clerk of course.</p>
                         <div class="alert alert-info">
                            <strong>Heads up!</strong> The volunteer requirement per family is 5 obligations. Failure to fulfill this mandatory obligation will result a forfeiture of your child's priviledge to participate in meets.
                         </div>
-                        <button class="btn btn-large btn-primary" type="button">Sign up for a job! <i class="icon-user icon-white"></i></button><button class="btn btn-large" type="button">Request invite <i class="icon-envelope icon-white"></i></button>
+                        <p>
+                           <button class="btn btn-large btn-primary" type="button">Sign up for a job! <i class="icon-user icon-white"></i></button>
+                           <button class="btn btn-large" type="button">Request invite <i class="icon-envelope"></i></button>
+                        </p>
                      </div>
                      <hr class="featurette-divider">
                      <div class="featurette">
