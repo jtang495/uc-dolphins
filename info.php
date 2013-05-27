@@ -61,7 +61,7 @@
                   <hr class="featurette-divider">
                   <div class="featurette">
                      <h2 class="featurette-heading">Practice Schedule. <span class="muted">2013 Season</span></h2>
-                     <p class="lead">Upper County is a Division A team in the <a href="http://www.mcsl.org">Montgomery County Swim League (MCSL)</a>.</p>
+                     <p class="lead">Upper County is a Division A team in the <a href="http://www.mcsl.org" target="_blank">Montgomery County Swim League (MCSL)</a>.</p>
                      <div class="row-fluid"> 
                         <div class="span4">
                            <h3>Pre-season 5/29-6/13</h3>
