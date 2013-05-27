@@ -30,6 +30,28 @@
                   <!-- START THE FEATURETTES -->
                   <div class="featurette">
                      <h2 class="featurette-heading">Contacts | <span class="muted">Get in touch.</span></h2>
+                     <h3>A Rep</h3>
+                     <p>Lilly Brotons</br>
+                     lbsbailey@gmail.com</br>
+                     (240) 286-4841</p>
+                     <h3>B Reps</h3>
+                     <p>Jackie Suzich</br>
+                     jsuzich@comcast.net<br>
+                     (301) 990-6088</p>
+                     <p>Lori Littrell</p>
+                     <h3>Treasurer<h3>
+                     <p>Melanie O'Leary</br>
+                     oleary25@verizon.net</br>
+                     (301) 253-2631</p>
+                     <h3>Volunteer Coordinator</h3>
+                     <p>Root Teklemariam</br>
+                     (240) 533-6466</p>
+                     <h3>Concessions</h3>
+                     <p>Vi Cu</br>
+                     Jessica Jones</p>
+                     <h3>Spirit Wear</h3>
+                     Linda Solomich</br>
+                     lsolomich@comneticsinc.com</p>
                   </div>
                   <!-- /END THE FEATURETTES -->
             </div><!-- /.marketing -->
