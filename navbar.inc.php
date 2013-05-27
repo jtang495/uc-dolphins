@@ -48,9 +48,9 @@ positioned parent. -->
                         <li><a href="#">MCSL All-Star Individuals</a></li>
                      </ul>
                   </li>
-                  <li><a href="#contact">Volunteer</a></li>
+                  <li><a href="volunteer.php">Volunteer</a></li>
                   <li><a href="coaches.php">Coaches</a></li>
-                  <li><a href="#records">Records</a></li>
+                  <li><a href="#">Records</a></li>
                </ul><!-- /.nav -->
             </div><!--/.nav-collapse -->
          </div><!-- /.navbar-inner -->

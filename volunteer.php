@@ -26,10 +26,9 @@
          <div class="container">
             <div class="marketing">
                <div class="row-fluid">
-                  <div class="span7">
+                  <div class="span8">
                      <!-- START THE FEATURETTES -->
                      <div class="featurette">
-                        <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
                         <h2 class="featurette-heading">Volunteering. <span class="muted">We need your help!</span></h2>
                         <p class="lead">Parent volunteers are critical to the success of the swim season. It takes between 45 to 60 parents to run a swim meet! Many jobs require little to no experience such as timing and selling food at concessions. Other jobs such as referee, starter, and stroke/turn judge require certification. Although most jobs are suited for adults, some jobs can be performed by older swimmers such as runner, ribbon writer, verifier, and clerk of course.</p>
                         <div class="alert alert-info">
@@ -48,7 +47,7 @@
                      <hr class="featurette-divider">
                      <!-- /END THE FEATURETTES -->
                   </div><!-- /.span7 -->
-                  <div class="span5">
+                  <div class="span4">
                      <div class="accordion" id="jobs-accordion">
                         <div class="accordion-group">
                            <div class="accordion-heading">
