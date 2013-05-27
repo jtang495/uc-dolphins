@@ -61,8 +61,7 @@
                   <hr class="featurette-divider">
                   <div class="featurette">
                      <h2 class="featurette-heading">Practice Schedule. <span class="muted">2013 Season</span></h2>
-                     
-                     <p class="lead">Upper County is a Division A team in the Montgomery County Swim League (MCSL).</p>
+                     <p class="lead">Upper County is a Division A team in the <a href="http://www.mcsl.org">Montgomery County Swim League (MCSL)</a>.</p>
                      <div class="row-fluid"> 
                         <div class="span4">
                            <h3>Pre-season 5/29-6/13</h3>
@@ -80,7 +79,7 @@
                         <div class="span4">
                            <h3>Saturday Meets</h3>
                            <p>Week 1 (6/15): Bethesda @ Upper County</p>
-                           <p>Week 2 (6/22): Upper County @ <a href="#" data-toggle="popover" data-content="Driving directions">Tilden Woods</a></p>
+                           <p>Week 2 (6/22): Upper County @ Tilden Woods</p>
                            <p>Week 3 (6/29): Darnestown @ Upper County</p>
                            <p>Week 4 (7/06): Stonegate @ Upper County</p>
                            <p>Week 5 (7/07): A Relay Carnival @ Stonegate</p>
@@ -90,7 +89,7 @@
                         <div class="span4">
                            <h3>Wednesday Meets</h3>
                            <p>Week 1 (6/19): Upper County @ Damascus</p>
-                           <p>Week 2 (6/28): Upper County @ <a href="#" data-toggle="popover" data-content="Driving directions">Olney Mill</a></p>
+                           <p>Week 2 (6/28): Upper County @ Olney Mill</p>
                            <p>Week 3 (7/03): Mill Creek Towne @ Upper County</p>
                            <p>Week 4 (7/10): Upper County @ Hallowell</p>
                            <p>Week 5 (7/14): B Relay Carnival @ Upper County</p>
