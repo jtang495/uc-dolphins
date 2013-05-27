@@ -21,16 +21,10 @@
    <body>
       <!-- Wrap body contents in .wrap to push footer down to bottom of page -->
       <div id="wrap">
+         <!-- Include nagivation bar -->
          <?php require 'navbar.inc.php' ?>
-
-         <div class="jumbotron">
-            <h1>Meet the Coaching Staff</h1>
-         </div>
-         <hr> 
-         <!-- Marketing messaging and featurettes
-         ================================================== -->
+         <div id="push"></div>
          <!-- Wrap the rest of the page in another container to center all the content. -->
-
          <div class="container">
             <div class="marketing">
                   <!-- START THE FEATURETTES -->
