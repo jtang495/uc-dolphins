@@ -12,6 +12,11 @@
       <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
       <link href="css/style.css" rel="stylesheet">
 
+      <!-- Start WOWSlider.com HEAD section -->
+      <link rel="stylesheet" type="text/css" href="slider-js/style.css" />
+      <script type="text/javascript" src="slider-js/jquery.js"></script>
+      <!-- End WOWSlider.com HEAD section -->
+      
       <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
       <!--[if lt IE 9]>
          <script src="../assets/js/html5shiv.js"></script>
@@ -23,34 +28,26 @@
       <div id="wrap">
          <?php require 'navbar.inc.php' ?>
 
-         <!-- Carousel
-         ================================================== -->
-         <div id="myCarousel" class="carousel slide">
-            <div class="carousel-inner">
-               <div class="item active">
-                  <img src="img/slide-01.jpg" alt="">
-                  <div class="container">
-                     <div class="carousel-caption">
-                        <h1>Registration is Open</h1>
-	                     <p class="lead">Upper County Dolphins is a Division A swim team. Come join the fun! We are #2 in the top division!</p>
-                        <a class="btn btn-large btn-primary" href="#">Register online</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="item">
-                  <img src="../assets/img/examples/slide-02.jpg" alt="">
-                  <div class="container">
-                     <div class="carousel-caption">
-                        <h1>2013 Spirit Wear has Arrived!</h1>
-                        <p class="lead">This year's team suit is the Nike Foil Skin. Order yours now.</p>
-                        <a class="btn btn-large btn-primary" href="#">Check it out</a>
-                     </div>
-                  </div>
+	      <!-- Start WOWSlider.com BODY section -->
+	      <div id="wowslider-container1">
+            <div class="ws_images">
+               <ul>
+                  <li><img src="slider-img/slide-01.jpg" alt="Title 1" title="Title 1" id="wows1_0"/>Description 1</li>
+                  <li><img src="slider-img/slide-02.jpg" alt="Slide 2" title="Slide 2" id="wows1_1"/>Description 2</li>
+               </ul>
+            </div>
+            <div class="ws_bullets">
+               <div>
+                  <a href="#" title="Title 1"><img src="slider-img/tooltips/slide-01.jpg" alt="Title 1"/>1</a>
+                  <a href="#" title="Slide 2"><img src="slider-img/tooltips/slide-02.jpg" alt="Slide 2"/>2</a>
                </div>
             </div>
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
-         </div><!-- /.carousel -->
+            <span class="wsl"><a href="http://wowslider.com">Slideshow Joomla</a> by WOWSlider.com v3.8</span>
+	         <div class="ws_shadow"></div>
+	      </div>
+	      <script type="text/javascript" src="slider-js/wowslider.js"></script>
+	      <script type="text/javascript" src="slider-js/script.js"></script>
+	      <!-- End WOWSlider.com BODY section -->
 
          <!-- SOCIAL BAR
          ================================================ -->
