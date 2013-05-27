@@ -35,7 +35,7 @@
                         <div class="alert alert-info">
                            <strong>Heads up!</strong> The volunteer requirement per family is 5 obligations. Failure to fulfill this mandatory obligation will result a forfeiture of your child's priviledge to participate in meets.
                         </div>
-                        <button class="btn btn-large btn-primary" type="button">Sign up now! <i class="icon-user"></i></button>
+                        <button class="btn btn-large btn-primary" type="button">Sign up for a job! <i class="icon-user icon-white"></i></button><button class="btn btn-large" type="button">Request invite <i class="icon-envelope icon-white"></i></button>
                      </div>
                      <hr class="featurette-divider">
                      <div class="featurette">
@@ -167,7 +167,7 @@
       <?php require 'footer.inc.php' ?>
       <!-- Manually start accordian -->
       <script>
-         $(".collapse").collapse('toggle');
+         $(".collapse").collapse();
       </script>
    </body>
 </html>
