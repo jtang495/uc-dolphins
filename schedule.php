@@ -46,20 +46,20 @@
                <div class="featurette">
                   <h2 class="featurette-heading">Meet Schedule. <span class="muted">A Meets</span></h2>
                   <p>Week 1 (6/15): Bethesda @ Upper County</p>
-                  <p>Week 2 (6/22): Upper County @ Tilden Woods<button class="btn btn-small btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
+                  <p>Week 2 (6/22): Upper County @ Tilden Woods <button class="btn btn-mini btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
                   <p>Week 3 (6/29): Darnestown @ Upper County</p>
                   <p>Week 4 (7/06): Stonegate @ Upper County</p>
-                  <p>Week 5 (7/07): A Relay Carnival @ Stonegate<button class="btn btn-small btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
-                  <p>Week 5 (7/13): Upper County @ Rockville<button class="btn btn-small btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
+                  <p>Week 5 (7/07): A Relay Carnival @ Stonegate <button class="btn btn-mini btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
+                  <p>Week 5 (7/13): Upper County @ Rockville <button class="btn btn-mini btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
                   <p>Week 6 (7/20): Divisionals @ Upper County</p>
                </div>
                <hr class="featurette-divider">
                <div class="featurette">
                   <h2 class="featurette-heading">Meet Schedule. <span class="muted">B Meets</span></h2>
-                  <p>Week 1 (6/19): Upper County @ Damascus<button class="btn btn-small btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
-                  <p>Week 2 (6/28): Upper County @ Olney Mill<button class="btn btn-small btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
+                  <p>Week 1 (6/19): Upper County @ Damascus <button class="btn btn-mini btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
+                  <p>Week 2 (6/28): Upper County @ Olney Mill <button class="btn btn-mini btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
                   <p>Week 3 (7/03): Mill Creek Towne @ Upper County</p>
-                  <p>Week 4 (7/10): Upper County @ Hallowell<button class="btn btn-small btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
+                  <p>Week 4 (7/10): Upper County @ Hallowell <button class="btn btn-mini btn-primary" type="button"><i class="icon-map-marker icon-white"></i> Get Directions</button></p>
                   <p>Week 5 (7/14): B Relay Carnival @ Upper County</p>
                   <p>Week 5 (7/17): Flower Valley @ Upper County</p>
                </div>
