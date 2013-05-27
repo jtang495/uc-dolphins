@@ -51,7 +51,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseReferee">Meet Referee</a>
                            </div>
-                           <div id="#collapseReferee" class="accordion-body collapse in">
+                           <div id="collapseReferee" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of the referee.
                               </div>
@@ -61,7 +61,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseStarter">Starter</a>
                            </div>
-                           <div id="#collapseStarter" class="accordion-body collapse in">
+                           <div id="collapseStarter" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of the starter.
                               </div>
@@ -71,7 +71,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseJudge">Stroke & Turn Judge</a>
                            </div>
-                           <div id="#collapseJudge" class="accordion-body collapse in">
+                           <div id="collapseJudge" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of the stroke & turn judge.
                               </div>
@@ -81,7 +81,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseHeroTimer">Head Timer & Assistant Head Timer</a>
                            </div>
-                           <div id="#collapseHeroTimer" class="accordion-body collapse in">
+                           <div id="collapseHeroTimer" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of head timer and assistant head timer.
                               </div>
@@ -91,7 +91,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseTimer">Timer</a>
                            </div>
-                           <div id="#collapseTimer" class="accordion-body collapse in">
+                           <div id="collapseTimer" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of timer.
                               </div>
@@ -101,7 +101,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseRunner">Runner</a>
                            </div>
-                           <div id="#collapseRunner" class="accordion-body collapse in">
+                           <div id="collapseRunner" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of runner.
                               </div>
@@ -111,7 +111,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseAnnouncer">Announcer</a>
                            </div>
-                           <div id="#collapseAnnouncer" class="accordion-body collapse in">
+                           <div id="collapseAnnouncer" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of announcer.
                               </div>
@@ -121,7 +121,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseClerk">Clerk of Course & Assistant Clerk of Course</a>
                            </div>
-                           <div id="#collapseClerk" class="accordion-body collapse in">
+                           <div id="collapseClerk" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of clerk.
                               </div>
@@ -131,7 +131,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseAutomation">Automation</a>
                            </div>
-                           <div id="#collapseAutomation" class="accordion-body collapse in">
+                           <div id="collapseAutomation" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of automation.
                               </div>
@@ -141,7 +141,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseVerifier">Verifier</a>
                            </div>
-                           <div id="#collapseVerifier" class="accordion-body collapse in">
+                           <div id="collapseVerifier" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of verifier.
                               </div>
@@ -151,7 +151,7 @@
                            <div class="accordion-heading">
                               <a class="accordion-toggle" data-toggle="collapse" data-parent="#jobs-accordion" href="#collapseWriter">RibbonWriter</a>
                            </div>
-                           <div id="#collapseWriter" class="accordion-body collapse in">
+                           <div id="collapseWriter" class="accordion-body collapse in">
                               <div class="accordion-inner">
                                  Job description of ribbon writer.
                               </div>
@@ -167,7 +167,7 @@
       <?php require 'footer.inc.php' ?>
       <!-- Manually start accordian -->
       <script>
-         $(".collapse").collapse();
+         $(".collapse").collapse('toggle');
       </script>
    </body>
 </html>
