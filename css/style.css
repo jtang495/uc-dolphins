@@ -245,10 +245,10 @@ body {
 
    }
    .carousel .item {
-      height: 500px;
+      height: 400px;
    }
    .carousel img {
-      height: 500px;
+      height: 400px;
    }
    .carousel-caption {
       width: 65%;
