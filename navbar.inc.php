@@ -18,6 +18,7 @@ positioned parent. -->
                      <ul class="dropdown-menu">
                         <li><a href="pool-info.php">Pool Information</a></li>
                         <li><a href="schedule.php">Practice and Meet Schedules</a></li>
+                        <li><a href="spirit-wear.php">Spirit Wear</a></li>
                         <li><a href="events.php">Events and Outings</a></li>
                         <li><a href="contacts.php">Contacts</a></li>
                      </ul>
