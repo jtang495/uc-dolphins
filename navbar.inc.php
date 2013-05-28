@@ -51,7 +51,7 @@ positioned parent. -->
                   </li>
                   <li><a href="volunteer.php">Volunteer</a></li>
                   <li><a href="coaches.php">Coaches</a></li>
-                  <li><a href="#">Records</a></li>
+                  <li><a href="records.php">Records</a></li>
                </ul><!-- /.nav -->
             </div><!--/.nav-collapse -->
          </div><!-- /.navbar-inner -->
