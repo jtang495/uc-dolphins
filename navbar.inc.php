@@ -27,12 +27,12 @@ positioned parent. -->
                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Meet Results<b class="caret"></b></a>
                      <ul class="dropdown-menu">
                         <li class="nav-header">A Meets</li>
-                        <li><a href="#">Week 1: vs. Bethesda</a></li>
-                        <li><a href="#">Week 2: vs. Tilden Woods</a></li>
-                        <li><a href="#">Week 3: vs. Darnestown</a></li>
-                        <li><a href="#">Week 4: vs. Stonegate</a></li>
-                        <li><a href="#">Week 5: vs. Rockville</a></li>
-                        <li><a href="#">Relay Carnival</a></li>
+                        <li><a href="results.php#week1a">Week 1: vs. Bethesda</a></li>
+                        <li><a href="results.php#week2a">Week 2: vs. Tilden Woods</a></li>
+                        <li><a href="results.php#week3a">Week 3: vs. Darnestown</a></li>
+                        <li><a href="results.php#week4a">Week 4: vs. Stonegate</a></li>
+                        <li><a href="results.php#week5a">Week 5: vs. Rockville</a></li>
+                        <li><a href="results.php#relaya">Relay Carnival</a></li>
                         <li class="divider"></li>
                         <li class="nav-header">B Meets</li>
                         <li><a href="#">Week 1: vs. Damascus</a></li>
