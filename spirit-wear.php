@@ -10,7 +10,7 @@
         <h2 class="featurette-heading">Dolphins Shop <span class="muted">| Order your spirit wear</span></h2>
         <p class="lead">
         <p class="lead">
-          The 2013-2014 team suit for the Upper County Dolphins will be the <strong>Nike Foil Skin</strong>. We plan to use this suit for 2 years - this summer and next. The suits are available for purchase at <a href="#" target="_blank">Aardvark Swim & Sport</a> - <strong>be sure to ask for the team discount</strong>. Orders made by May 31 will arrive in time for the start of the big meet on June 22.</br>
+          The 2013-2014 team suit for the Upper County Dolphins will be the <strong>Nike Foil Skin</strong>. We plan to use this suit for 2 years - this summer and next. The suits are available for purchase at <a href="http://www.aardvarkswim.com" target="_blank">Aardvark Swim & Sport</a> - <strong>be sure to ask for the team discount</strong>. Orders made by May 31 will arrive in time for the start of the big meet on June 22.</br>
         <p class="lead">
           <strong>Team Caps</strong> for $12 (Silicone) and $4 (Latex) are only available through Upper County Spirit Wear, and these will be available for purchase during Time Trials and all swim meets. Team Caps are HIGHLY encouraged for all swimmers.
         <p class="lead">
