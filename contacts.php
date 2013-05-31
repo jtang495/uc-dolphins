@@ -40,7 +40,7 @@
             <div class="span4">
               <h3>Volunteer Coordinator</h3>
               <p class="lead">Root Teklemariam</br>
-              <a href="mailto:rootteckle@gmail.com">root.teckle@gmail.com</a></br>
+              <a href="mailto:roottekle@gmail.com">root.teckle@gmail.com</a></br>
               (240) 533-6466
             </div>
             <div class="span4">
