@@ -10,7 +10,7 @@
       <div class="featurette">
         <div class="row-fluid">
             <div class="span8">
-              <img src="img/pool.jpg" width="80%">
+              <img style="width: 80%;" src="img/pool.jpg" >
             </div><!-- /.span8 -->
             <div class="span4">
               <p>Upper County Outdoor Pool
