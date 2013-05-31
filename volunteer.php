@@ -23,8 +23,8 @@
               <strong>Heads up!</strong> The volunteer requirement per family is 5 obligations. Failure to fulfill this mandatory obligation will result a forfeiture of your child's priviledge to participate in meets.
             </div>
             <p>
-              <a class="btn btn-large btn-primary">Sign up for a job! <i class="icon-user icon-white"></i></a>
-              <a class="btn btn-large">Request invite <i class="icon-envelope"></i></a>
+              <a class="btn btn-large btn-primary" href="http://www.signupgenius.com/" target="_blank">Sign up for a job! <i class="icon-user icon-white"></i></a>
+              <a class="btn btn-large" href="mailto:roottekle@gmail.com?subject=Invitation%20to%20Sign-up%20Genius">Request invite <i class="icon-envelope"></i></a>
           </div>
           <hr class="featurette-divider">
 
