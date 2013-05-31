@@ -1,60 +1,55 @@
-
 <div class="navbar-wrapper">
-<!-- Wrap the .navbar in .container to center it within the absolutely
-positioned parent. -->
-   <div class="container">
-      <div class="navbar navbar-inverse">
-         <div class="navbar-inner">
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-               <span class="icon-bar"></span>
-               <span class="icon-bar"></span>
-               <span class="icon-bar"></span>
-            </button>
-            <a class="brand" href="index.php">Upper County Dolphins</a>
-            <div class="nav-collapse collapse">
-               <ul class="nav">
-                  <li class="dropdown">
-                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team Info<b class="caret"></b></a>
-                     <ul class="dropdown-menu">
-                        <li><a href="pool-info.php">Pool Information</a></li>
-                        <li><a href="schedule.php">Practice and Meet Schedules</a></li>
-                        <li><a href="spirit-wear.php">Spirit Wear</a></li>
-                        <li><a href="events.php">Events and Outings</a></li>
-                        <li><a href="contacts.php">Contacts</a></li>
-                     </ul>
-                  </li>
-                  <li class="dropdown">
-                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Meet Results<b class="caret"></b></a>
-                     <ul class="dropdown-menu">
-                        <li class="nav-header">A Meets</li>
-                        <li><a href="results.php#week1a">Week 1: vs. Bethesda</a></li>
-                        <li><a href="results.php#week2a">Week 2: vs. Tilden Woods</a></li>
-                        <li><a href="results.php#week3a">Week 3: vs. Darnestown</a></li>
-                        <li><a href="results.php#week4a">Week 4: vs. Stonegate</a></li>
-                        <li><a href="results.php#week5a">Week 5: vs. Rockville</a></li>
-                        <li><a href="results.php#relaya">Relay Carnival</a></li>
-                        <li class="divider"></li>
-                        <li class="nav-header">B Meets</li>
-                        <li><a href="#">Week 1: vs. Damascus</a></li>
-                        <li><a href="#">Week 2: vs. Olney Mill</a></li>
-                        <li><a href="#">Week 3: vs. Mill Creek Towne</a></li>
-                        <li><a href="#">Week 4: vs. Hallowell</a></li>
-                        <li><a href="#">Week 5: vs. Flower Valley</a></li>
-                        <li><a href="#">Relay Carnival</a></li>
-                        <li class="divider"></li>
-                        <li class ="nav-header">Championship Meets</li>
-                        <li><a href="#">MCSL Coaches Long Course</a></li>
-                        <li><a href="#">Divisional Championships</a></li>
-                        <li><a href="#">MCSL All-Star Relays</a></li>
-                        <li><a href="#">MCSL All-Star Individuals</a></li>
-                     </ul>
-                  </li>
-                  <li><a href="volunteer.php">Volunteer</a></li>
-                  <li><a href="coaches.php">Coaches</a></li>
-                  <li><a href="records.php">Records</a></li>
-               </ul><!-- /.nav -->
-            </div><!--/.nav-collapse -->
-         </div><!-- /.navbar-inner -->
-      </div><!-- /.navbar -->
-   </div> <!-- /.container -->
+  <div class="container">
+    <div class="navbar navbar-inverse">
+      <div class="navbar-inner">
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="brand" href="index.php">Upper County Dolphins</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team Info<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="pool-info.php">Pool Information</a>
+                <li><a href="schedule.php">Practice and Meet Schedules</a>
+                <li><a href="spirit-wear.php">Spirit Wear</a>
+                <li><a href="events.php">Events and Outings</a>
+                <li><a href="contacts.php">Contacts</a>
+              </ul>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Meet Results<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="nav-header">A Meets
+                <li><a href="results.php#week1a">Week 1: vs. Bethesda</a>
+                <li><a href="results.php#week2a">Week 2: vs. Tilden Woods</a>
+                <li><a href="results.php#week3a">Week 3: vs. Darnestown</a>
+                <li><a href="results.php#week4a">Week 4: vs. Stonegate</a>
+                <li><a href="results.php#week5a">Week 5: vs. Rockville</a>
+                <li><a href="results.php#relaya">Relay Carnival</a>
+                <li class="divider">
+                <li class="nav-header">B Meets
+                <li><a href="#">Week 1: vs. Damascus</a>
+                <li><a href="#">Week 2: vs. Olney Mill</a>
+                <li><a href="#">Week 3: vs. Mill Creek Towne</a>
+                <li><a href="#">Week 4: vs. Hallowell</a>
+                <li><a href="#">Week 5: vs. Flower Valley</a>
+                <li><a href="#">Relay Carnival</a>
+                <li class="divider">
+                <li class ="nav-header">Championship Meets
+                <li><a href="#">MCSL Coaches Long Course</a>
+                <li><a href="#">Divisional Championships</a>
+                <li><a href="#">MCSL All-Star Relays</a>
+                <li><a href="#">MCSL All-Star Individuals</a>
+              </ul>
+            <li><a href="volunteer.php">Volunteer</a>
+            <li><a href="coaches.php">Coaches</a>
+            <li><a href="records.php">Records</a>
+          </ul><!-- /.nav -->
+        </div><!--/.nav-collapse -->
+      </div><!-- /.navbar-inner -->
+    </div><!-- /.navbar -->
+  </div> <!-- /.container -->
 </div><!-- /.navbar-wrapper -->

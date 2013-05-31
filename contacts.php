@@ -1,63 +1,72 @@
 <!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="utf-8">
-      <title>Upper County Dolphins - Contacts</title>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="description" content="">
-      <meta name="author" content="">
-
-      <!-- Le styles -->
-      <link href="css/bootstrap.min.css" rel="stylesheet">
-      <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-      <link href="css/style.css" rel="stylesheet">
-
-      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-      <!--[if lt IE 9]>
-         <script src="../assets/js/html5shiv.js"></script>
-    < ![endif]-->
-   </head>
-
-   <body>
-      <!-- Wrap body contents in .wrap to push footer down to bottom of page -->
-      <div id="wrap">
-         <!-- Include navigation bar -->
-         <?php require 'navbar.inc.php' ?>
-         <div id="push"></div>
-         <!-- Wrap the rest of the page in another container to center all the content. -->
-         <div class="container">
-            <div class="marketing">
-                  <!-- START THE FEATURETTES -->
-                  <div class="featurette">
-                     <h2 class="featurette-heading">Contacts | <span class="muted">Get in touch.</span></h2>
-                     <h3>A Rep</h3>
-                     <p>Lilly Brotons</br>
-                     lbsbailey@gmail.com</br>
-                     (240) 286-4841</p>
-                     <h3>B Reps</h3>
-                     <p>Jackie Suzich</br>
-                     jsuzich@comcast.net<br>
-                     (301) 990-6088</p>
-                     <p>Lori Littrell</p>
-                     <h3>Treasurer</h3>
-                     <p>Melanie O'Leary</br>
-                     oleary25@verizon.net</br>
-                     (301) 253-2631</p>
-                     <h3>Volunteer Coordinator</h3>
-                     <p>Root Teklemariam</br>
-                     (240) 533-6466</p>
-                     <h3>Concessions</h3>
-                     <p>Vi Cu</br>
-                     Jessica Jones</p>
-                     <h3>Spirit Wear</h3>
-                     Linda Solomich</br>
-                     lsolomich@comneticsinc.com</p>
-                  </div>
-                  <!-- /END THE FEATURETTES -->
-            </div><!-- /.marketing -->
-         </div><!-- /.container -->
-         <div id="push"></div>
-      </div><!-- /.wrap -->
-      <?php require 'footer.inc.php' ?>
-   </body>
-</html>
+<?php require 'head.inc.php' ?>
+<title>Contacts - UCD</title>
+<div id="wrap">
+  <!-- Include navigation bar -->
+  <?php require 'navbar.inc.php' ?>
+  <div id="push"></div>
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+  <div class="container">
+    <div class="marketing">
+      <div class="featurette">
+        <h2 class="featurette-heading">Contacts | <span class="muted">Get in touch.</span></h2>
+          <div class="row-fluid">
+            <div class="span4">
+              <h3>A Rep</h3>
+              <p class="lead">Lilly Brotons</br>
+              <a href="mailto:lbsbailey@gmail.com">lbsbailey@gmail.com</a></br>
+              (240) 286-4841
+            </div>
+            <div class="span4">
+              <h3>B Rep</h3>
+              <p class="lead">Jackie Suzich</br>
+              <a href="mailto:jsuzich@comcast.net">jsuzich@comcast.net</a><br>
+              (301) 990-6088
+            </div>
+            <div class="span4">
+              <h3>B Rep</h3>
+              <p class="lead">Lori Littrell</br>
+              <a href="mailto:llitrell64@gmail.com">llitrell64@gmail.com</a></br>
+              (301) 641-0504
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span4">
+              <h3>Treasurer</h3>
+              <p class="lead">Melanie O'Leary</br>
+              <a href="mailto:oleary25@verizon.net">oleary25@verizon.net</a></br>
+              (301) 253-2631
+            </div>
+            <div class="span4">
+              <h3>Volunteer Coordinator</h3>
+              <p class="lead">Root Teklemariam</br>
+              <a href="mailto:rootteckle@gmail.com">root.teckle@gmail.com</a></br>
+              (240) 533-6466
+            </div>
+            <div class="span4">
+              <h3>A Concessions</h3>
+              <p class="lead">Vi Cu</br>
+              <a href="mailto:triducvi@gmail.com">triducvi@gmail.com</a></br>
+              (301) 339-4369
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span4">
+              <h3>B Concessions</h3>
+              <p class="lead">Jessica Jones</br>
+              <a href="mailto:jessicamorganjones@gmail.com">jessicamorganjones@gmail.com</a></br>
+              (703) 901-5280
+            </div>
+            <div class="span4">
+              <h3>Spirit Wear</h3>
+              <p class="lead">Linda Solomich</br>
+              <a href="mailto:lsolomich@comneticsinc.com">lsolomich@comneticsinc.com</a></br>
+              (301) 335-5456
+            </div>
+        </div><!-- /.fluid -->
+      </div><!-- /.featurette -->
+    </div><!-- /.marketing -->
+  </div><!-- /.container -->
+  <div id="push"></div>
+</div><!-- /.wrap -->
+<?php require 'footer.inc.php' ?>
