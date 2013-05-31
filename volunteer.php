@@ -35,7 +35,9 @@
               <span class="muted"> Earn SSL hours.</span>
             </h2>
             <p class="lead">
-              Middle and high school swimmers and their siblings can earn SSL hours by volunteering at meets. Our volunteer coordinator can keep track of your swimmers' SSL hours and provide a SSL form with their accumulated hours at the end of the season.
+              Middle and high school swimmers and their siblings can earn SSL hours by volunteering at meets. Our volunteer coordinator can keep track of your swimmers' SSL hours and provide a SSL form with their accumulated hours at the end of the season.</br>
+            <p class="lead">  
+              <strong>Questions?</strong> Contact our volunteer coordinator, <a href="contacts.php">Root Teklemariam</a>.
           </div>
         </div><!-- /.span8 -->
 

@@ -16,6 +16,11 @@
   <div class="container">
     <div class="marketing">
       <div class="featurette">
+          <div class="alert alert-warning">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            <strong>Under Construction!</strong>
+            Pardon our dust while records are being updated.
+          </div>
         <h2 class="featurette-heading">Upper County Records <span class="muted">| Make your mark in history.</span></h2>
         <div id="push"></div>
         <p>
@@ -92,6 +97,7 @@
             <td>13-14 100m IM
             <td>1:10.00
             <td>Jane Done
+            <td>16
           <tr>
             <td>17
             <td>John Doe
