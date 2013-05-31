@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php require 'head.inc.php' ?>
 <style>
   .featurette.bio-left {
@@ -12,7 +13,7 @@
     text-align: right;
   }
 </style>
-<title>Upper County Dolphins - Coaches</title>
+<title>Coaches - UCD</title>
 <div id="wrap">
   <!-- Include nagivation bar -->
   <?php require 'navbar.inc.php' ?>
