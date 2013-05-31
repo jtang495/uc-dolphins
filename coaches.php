@@ -32,7 +32,7 @@
         <img class="featurette-image pull-right img-polaroid bio" src="img/shannon-king.jpg">
         <h2 class="featurette-heading">Shannon King<span class="muted"> | Assistant Coach</span></h2>
         <p class="lead">
-          Shannon started swimming for Upper County when she was 10 years old and continued to be a Dolphin until she graduated from GHS. Shannon has been teaching swimming lessons for 9 years. During the winter she is the head coach for the Gaithersburg High School winter swim team. Shannon is now a graduate from the University of Maryland and working full time so we are happy to have her back on the team!
+          Shannon started swimming for Upper County when she was 10 years old and swam for the Dolphins until she graduated from Gaithersburg High School. During the winter she is head coach of the GHS swim team. Shannon graduated from University of Maryland and has been working at the Nuclear Regulatory Commission for the past 5 years. In addition to coaching at UC and GHS, she also coaches year-round for RMSC. Some fun facts about Shannon: she loves to run and has a pet kitty named Brooksie. She's looking forward to another great season with the team!
       </div>
       <hr class="featurette-divider">
       <div class="featurette bio-left">
