@@ -18,7 +18,7 @@
               <span class="muted"> We need your help!</span>
             </h2>
             <p class="lead">
-              Parent volunteers are critical to the success of the swim season. It takes between 45 to 60 parents to run a swim meet! Many jobs require little to no experience such as timing and selling food at concessions. Other jobs such as referee, starter, and stroke/turn judge require certification. Although most jobs are suited for adults, some jobs can be performed by older swimmers such as runner, ribbon writer, verifier, and clerk of course.
+              Prent volunteers are critical to the success of the swim season. It takes between 45 to 60 parents to run a swim meet! Many jobs require little to no experience such as timing and selling food at concessions. Other jobs such as referee, starter, and stroke/turn judge require certification. Although most jobs are suited for adults, some jobs can be performed by middle or high school swimmers who want to earn SSL/Volunteer hours. See below for more information.
             <div class="alert alert-info">
               <strong>Heads up!</strong> The volunteer requirement per family is 5 obligations. Failure to fulfill this mandatory obligation will result a forfeiture of your child's priviledge to participate in meets.
             </div>
@@ -35,7 +35,12 @@
               <span class="muted"> Earn SSL hours.</span>
             </h2>
             <p class="lead">
-              Middle and high school swimmers and their siblings can earn SSL hours by volunteering at meets. Our volunteer coordinator can keep track of your swimmers' SSL hours and provide a SSL form with their accumulated hours at the end of the season.</br>
+              Middle and high school swimmers can earn student service learning (SSL) hours by volunteering at meets. <strong>These jobs do not count toward your 5 family obligations.</strong> Jobs that qualify for SSL hours are labeled “SSL Only” in signupgenius.
+            <p>
+              <a class="btn btn-large btn-primary" href="pdf/ssl-info">More SSL Info <i class="icon-list icon-white"></i></a>
+          </div>
+          <hr>
+          <div class="featurette">
             <p class="lead">  
               <strong>Questions?</strong> Contact our volunteer coordinator, <a href="contacts.php">Root Teklemariam</a>.
           </div>

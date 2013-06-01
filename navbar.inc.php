@@ -16,14 +16,14 @@
                 <li><a href="pool-info.php">Pool Information</a>
                 <li><a href="schedule.php">Practice and Meet Schedules</a>
                 <li><a href="events.php">Events and Outings</a>
-                <li><a href="#">Calendar</a>
+                <li><a href="calendar.php">Calendar</a>
                 <li><a href="contacts.php">Contacts</a>
               </ul>
             <li><a href="volunteer.php">Volunteer</a>
             <li class="dropdown">
-              <a href="#" class="dropdown--toggle" data-toggle="dropdown">Spirit Wear<b class="caret"></b></a> 
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Spirit Wear<b class="caret"></b></a> 
               <ul class="dropdown-menu">
-                <li><a href="#">Team Suits</a>
+                <li><a href="team-suits.php">Team Suits</a>
                 <li><a href="dolphin-shop.php">Online Dolphin Shop</a>
                 <li><a href="#">Pool Store</a>
               </ul>

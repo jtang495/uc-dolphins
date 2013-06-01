@@ -16,9 +16,9 @@
           <div class="carousel-caption">
             <h1>Registration is Open</h1>
             <p class="lead">
-              Upper County Dolphins is a Division A swim team. Come join the fun! We are #2 in the top division!
+              Upper County Dolphins is a Division A swim team. Come join the fun! We are #2 in the top division! Our course number is 351003.
             </p>
-            <a class="btn btn-large btn-primary" href="http://www6.montgomerycountymd.gov/rectmpl.asp?url=/content/rec/index.asp" target="_blank">Register online</a>
+            <a class="btn btn-large btn-primary" href="https://recweb.montgomerycountymd.gov/Start/Start.asp" target="_blank">Register online</a>
           </div>
         </div>
       </div><!-- /.item -->
