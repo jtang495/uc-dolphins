@@ -39,7 +39,7 @@
             </div>
             <div class="span4">
               <h3>Volunteer Coordinator</h3>
-              <p class="lead">Root Teklemariam</br>
+              <p class="lead">Root Teklemarian</br>
               <a href="mailto:roottekle@gmail.com">root.teckle@gmail.com</a></br>
               (240) 533-6466
             </div>
@@ -62,6 +62,35 @@
               <p class="lead">Linda Solomich</br>
               <a href="mailto:lsolomich@comneticsinc.com">lsolomich@comneticsinc.com</a></br>
               (301) 335-5456
+            </div>
+            <div class="span4">
+              <h3>General Information</h3>
+              <p class="lead">Lauren Mannella</br>
+              <a href="mailto:laurenmannella@yahoo.com">laurenmannella@yahoo.com</a></br>
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span4">
+              <h3>New Parent Contact, Pep Rally & Secret Swimmer</h3>
+              <p class="lead">Laura Ado</br>
+              <a href="mailto:lauraado@hotmail.com">lauraado@hotmail.com</a></br>
+            </div>
+            <div class="span4">
+              <h3>Officials Coordinator</h3>
+              <p class="lead">Dan Solomich</br>
+              <a href="mailto:dsolomich@comneticsinc.com">dsolomich@comneticsinc.com</a></br>
+            </div>
+            <div class="span4">
+              <h3>Automation</h3>
+              <p class="lead">Brian Hedquist</br>
+              <a href="mailto:bfhedquist@earthlink.com">bfhedquist@earthlink.com</a></br>
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span4">
+              <h3>Automation</h3>
+              <p class="lead">Carolyn Golding</br>
+              <a href="mailto:caroylnsky41@aol.com">carolynsky41@aol.com</a></br>
             </div>
         </div><!-- /.fluid -->
       </div><!-- /.featurette -->
