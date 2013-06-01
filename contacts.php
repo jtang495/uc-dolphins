@@ -90,7 +90,7 @@
             <div class="span4">
               <h3>Automation</h3>
               <p class="lead">Carolyn Golding</br>
-              <a href="mailto:caroylnsky41@aol.com">carolynsky41@aol.com</a></br>
+              <a href="mailto:carolynsky41@aol.com">carolynsky41@aol.com</a></br>
             </div>
         </div><!-- /.fluid -->
       </div><!-- /.featurette -->
