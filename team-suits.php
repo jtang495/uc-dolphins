@@ -10,7 +10,7 @@
         <h2 class="featurette-heading">Team Suit <span class="muted">| 2013-2014 Seasons</span></h2>
         <p class="lead">
         <p class="lead">
-          The 2013-2014 team suit for the Upper County Dolphins will be the <strong>Nike Foil Skin</strong>. We plan to use this suit for 2 years - this summer and next. The suits are available for purchase at <a href="http://www.aardvarkswim.com" target="_blank">Aardvark Swim & Sport</a> - <strong>be sure to ask for the team discount</strong>. Orders made by May 31 will arrive in time for the start of the big meet on June 22.</br>
+          The 2013-2014 team suit for the Upper County Dolphins will be the <strong>Nike Foil Skin</strong>. We plan to use this suit for 2 years - this summer and next. The suits are available for purchase at <a href="http://www.aardvarkswim.com" target="_blank">Aardvark Swim & Sport</a> - <strong>be sure to ask for the team discount</strong>.
         <p class="lead">
           <strong>Questions?</strong> Contact our spirit wear coodinator, <a href="contacts.php">Linda Solomich</a>.
         <div class="alert alert-warning">
@@ -52,7 +52,7 @@
             <h4>Brief</br>$30.00</h4>
           </div>
           <div class="span4">
-            <h3>Speedo Murcury Splice</h3>
+            <h3>Speedo Mercury Splice</h3>
             <!-- TODO (yang): add alternate media -->
             <img src="img/shop-speedo-jammer.jpg" alt=""/>
             <h4>Jammer</br>$36.00</h4>

@@ -25,7 +25,7 @@
               <ul class="dropdown-menu">
                 <li><a href="team-suits.php">Team Suits</a>
                 <li><a href="dolphin-shop.php">Online Dolphin Shop</a>
-                <li><a href="#">Pool Store</a>
+                <li><a href="pool-store.php">Pool Store</a>
               </ul>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Meet Results<b class="caret"></b></a>
