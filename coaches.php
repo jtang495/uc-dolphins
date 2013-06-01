@@ -1,18 +1,5 @@
 <!DOCTYPE html>
 <?php require 'head.inc.php' ?>
-<style>
-  .featurette.bio-left {
-    text-align: left;
-    overflow: hidden;
-  }
-  .featurette-image.bio {
-    margin: 20px;
-    overflow: hidden;
-  }
-  .featurette.bio-right {
-    text-align: right;
-  }
-</style>
 <title>Coaches - UCD</title>
 <div id="wrap">
   <!-- Include nagivation bar -->

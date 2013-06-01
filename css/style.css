@@ -195,6 +195,22 @@ body {
    margin-right: 10px;
 }
 
+/* FEATURETTES
+ * ---------------------------------------------- */
+
+.featurette {
+  overflow: hidden;
+}
+.featurette.bio-left {
+  text-align: left;
+}
+.featurette-image.bio {
+  margin: 20px;
+  overflow: hidden;
+}
+.featurette.bio-right {
+  text-align: right;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
