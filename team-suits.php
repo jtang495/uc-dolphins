@@ -31,7 +31,7 @@
             <h3>Nike Foil Skin</h3>
             <!-- TODO (yang): add alternate media -->
             <img src="img/shop-nike-cut-tank.jpg" alt=""/>
-            <h4>Tank Cut Out</br>$57.00</h4>
+            <h4>Cut Out Tank</br>$57.00</h4>
           </div>
           <div class="span4">
             <h3>Nike Foil Skin</h3>

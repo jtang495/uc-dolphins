@@ -8,7 +8,13 @@
     <div class="marketing">
       <div class="featurette">
         <h2 class="featurette-heading">Pool Store</h2>
+        <p class="lead">
+        <p class="lead">
+          The Dolphin Pool Store will be open during all team events and home meets. These items are not available in the Online Dolphin Shop.
+        <p class="lead">
+          <strong>Questions?</strong> Contact our spirit wear coodinator, <a href="contacts.php">Linda Solomich</a>.
 
+        <hr>
         <!-- TODO (yang): Align "Buy Now" buttons in each row -->
         <!-- First row -->
         <div class="row-fluid">
