@@ -30,15 +30,14 @@
           <div class="span4">
             <h3>Nike Foil Skin</h3>
             <!-- TODO (yang): add alternate media -->
-            <img src="img/shop-nike-cut-tank.jpg" alt=""/>
-            <h4>Cut Out Tank</br>$57.00</h4>
+            <img src="img/shop-nike-brief.jpg" alt=""/>
+            <h4>Brief</br>$30.00</h4>
           </div>
           <div class="span4">
             <h3>Nike Foil Skin</h3>
             <!-- TODO (yang): add alternate media -->
-            <img src="img/shop-nike-jammer.jpg" alt=""/>
-            <h4>Jammer</br>$36.00</h4>
-            <p>Backordered until 6/30/2013
+            <img src="img/shop-nike-cut-tank.jpg" alt=""/>
+            <h4>Cut Out Tank</br>$57.00</h4>
           </div>
         </div><!-- /.row-fluid -->
         <hr>
@@ -48,8 +47,9 @@
           <div class="span4">
             <h3>Nike Foil Skin</h3>
             <!-- TODO (yang): add alternate media -->
-            <img src="img/shop-nike-brief.jpg" alt=""/>
-            <h4>Brief</br>$30.00</h4>
+            <img src="img/shop-nike-jammer.jpg" alt=""/>
+            <h4>Jammer</br>$36.00</h4>
+            <p>Backordered until 6/30/2013
           </div>
           <div class="span4">
             <h3>Speedo Mercury Splice</h3>
