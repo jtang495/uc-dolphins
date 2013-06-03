@@ -25,7 +25,7 @@
         <p>9-12 Year-old: Mon-Fri 9:00-10:00 am
         <p>8 & Under: Mon-Thur 10:00-11:00 am, Fri 9:00-10:00 am
         <h4>Evening Schedule</h3>
-        <p>9 & Over: Mon, Tues, Thur 8:00-9:00 pm
+        <p>Mon, Tues, Thur 8:00-9:00 pm
       </div>
       <hr class="featurette-divider">
 
