@@ -47,7 +47,7 @@
         </div><!-- /.span8 -->
 
         <!-- Sidebar -->
-        <div class="span4">
+        <div class="span4 sidebar">
           <div class="alert alert-warning">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
             <strong>Under Construction!</strong>

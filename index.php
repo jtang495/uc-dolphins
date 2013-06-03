@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php require 'head.inc.php' ?>
-<link href="css/style.index.css" rel="stylesheet">
+<link href="css/carousel.css" rel="stylesheet">
 <title>Home - UCD</title>
 <div id="wrap">
   <?php require 'navbar.inc.php' ?>
@@ -29,8 +29,9 @@
             <h1>2013 Spirit Wear has Arrived!</h1>
             <p class="lead">
               This year's team suit is the Nike Foil Skin. Order yours now.
-            </p>
-            <a class="btn btn-large btn-primary" href="spirit-wear.php">Check it out</a>
+            <p>
+              <a class="btn btn-large btn-primary" href="team-suits.php">Team Suit</a>
+              <a class="btn btn-large" href="dolphin-shop.php">Spirit Wear</a>
           </div>
         </div>
       </div>
@@ -67,12 +68,23 @@
             <span class="muted"> | Upcoming Events</span>
           </h2>
           <p class="lead">
-            <h3>Time Trials and Swim Swap</h3>
+            <h3>Time Trials - June 08 <div class="label label-warning">NEW</div></h3>
+          <p class="lead">We are ready to start our season!
+          <p class="lead">
+            Upper County Outdoor Pool</br>
+            Swimmers should arrive by 6:50 am.</br>
+            <strong>Warm-ups:</strong> 7:00 am <strong>Meet start:</strong> 7:30 am</br>
+          <p class="lead">
+            We stil need volunteers!
           <hr class="featurette-divider">
+            <h3>Pasta Pot Luck & Pep Rally - June 14 <div class="label label-warning">NEW</div></h3>
+          <p class="lead">
+            Upper County Outdoor Pool</br>
+            Starting at ??:?? pm. We are taking the team photo!
         </div><!-- /.span8 -->
 
         <!-- Sidebar -->
-        <div id="sidebar" class="span4">
+        <div class="span4 sidebar">
           <!-- TODO (yang): add alternate media. separate styling from scripting. -->
           <img class="img" src="img/dolphin-logo.jpg" width="150px">
             <h3>Registration is open!</h3>

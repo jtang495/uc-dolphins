@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <?php require 'head.inc.php' ?>
-<style>
-  #sidebar {
-    padding: 10px;
-    border: 2px solid #ddd;
-    background-color: #f5f5f5;
-  }
-</style>
 <title>Pool Information - UCD</title>
 <div id="wrap">
   <!-- Include navigation bar -->
@@ -19,7 +12,7 @@
             <div class="span8">
               <img class="img-rounded" src="img/pool.jpg" >
             </div><!-- /.span8 -->
-            <div id="sidebar" class="span4">
+            <div class="span4 sidebar">
               <p class="lead">Upper County Outdoor Pool
               <p class="lead">8211 Emory Grove Rd.<br/>
               Gaithersburg, MD 20878<br/>
