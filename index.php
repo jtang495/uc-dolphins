@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <?php require 'head.inc.php' ?>
+<link href="css/style.index.css" rel="stylesheet">
 <title>Home - UCD</title>
-
 <div id="wrap">
   <?php require 'navbar.inc.php' ?>
-
   <!-- Carousel -->
   <div id="main-carousel" class="carousel slide">
     <div class="carousel-inner">
       <div class="item active">
-
         <!-- TODO (yang): add alternate media -->
         <img src="img/slide-01.jpg" alt="">
         <div class="container">
@@ -42,11 +40,11 @@
   </div><!-- /.carousel -->
 
   <!-- Social bar -->
-  <div class="social">
+  <div id="social">
     <div class="container">
       Random "follow us on facebook, twitter, google groups stuff" here?
     </div>
-  </div><!-- /.social -->
+  </div><!-- /#social -->
 
   <div class="container">
     <div class="marketing">
@@ -54,20 +52,27 @@
 
         <!-- Main column -->
         <div class="span8">
+
+
+          <!-- Uncomment out to make announcement
           <div class="alert alert-error">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
             <strong>05/27 6:59 pm:</strong>
             Woohoo! First deployment successful. But really, this space is reserved for emergency announcements ;)
           </div>
+          -->
+
           <h2 class="featurette-heading">
-            What to put here?
-            <span class="muted"> Beats me...</span>
+            Announcements
+            <span class="muted"> | Upcoming Events</span>
           </h2>
+          <p class="lead">
+            <h3>Time Trials and Swim Swap</h3>
+          <hr class="featurette-divider">
         </div><!-- /.span8 -->
 
         <!-- Sidebar -->
-        <div class="span4">
-
+        <div id="sidebar" class="span4">
           <!-- TODO (yang): add alternate media. separate styling from scripting. -->
           <img class="img" src="img/dolphin-logo.jpg" width="150px">
             <h3>Registration is open!</h3>
