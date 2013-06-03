@@ -12,7 +12,7 @@
         <h2 class="featurette-heading">Contacts | <span class="muted">Get in touch.</span></h2>
         <div class="row-fluid">
           <div class="span4">
-            <h3>Team Rep</h3>
+            <h3>A Rep</h3>
             <p class="lead">Lilly Brotons</br>
             <a href="mailto:lbsbailey@gmail.com">lbsbailey@gmail.com</a></br>
             (240) 286-4841
