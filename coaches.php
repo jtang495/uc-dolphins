@@ -12,7 +12,7 @@
         <img class="featurette-image pull-left img-polaroid bio" src="img/jen-taylor.jpg">
         <h2 class="featurette-heading">Jennifer Taylor<span class="muted"> | Head Coach</span></h2>
         <p class="lead bio-left">
-          Jen has been our beloved head coach for 15 years. She graduated from UMD with Master degrees in school counseling. She currently works for the MCPS as a guidance counselor at Wootton High School. Jen was an "Outstanding" member of the Westleigh, Wootton High School, RMSC and the University of Maryland swim teams.
+          Jen has been our beloved head coach since 1995. She graduated from UMD with Master degrees in school counseling. She currently works for the MCPS as a guidance counselor at Wootton High School. Jen was an "Outstanding" member of the Westleigh, Wootton High School, RMSC and the University of Maryland swim teams.
       </div>
       <hr class="featurette-divider">
       <div class="featurette bio-right">
@@ -33,7 +33,7 @@
         <img class="featurette-image pull-right polaroid bio" src="">
         <h2 class="featurette-heading">Scott Page<span class="muted"> | Assistant Coach</span></h2>
         <p class="lead">
-          Something about Scott Page.
+          Scott started swimming with Upper County when he was 7 years old. This will be his second year coaching on the team. Scott is currently pursuing his bachelors degree in biology at Virginia Wesleyan College.
       </div>
       <hr class="featurette-divider">
       <div class="featurette bio-left">
