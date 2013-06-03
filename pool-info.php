@@ -10,11 +10,11 @@
       <div class="featurette">
         <div class="row-fluid">
             <div class="span8">
-              <img style="width: 80%;" src="img/pool.jpg" >
+              <img class="img-rounded" src="img/pool.jpg" >
             </div><!-- /.span8 -->
             <div class="span4">
-              <p>Upper County Outdoor Pool
-              <p>8211 Emory Grove Rd.<br/>
+              <p class="lead">Upper County Outdoor Pool
+              <p class="lead">8211 Emory Grove Rd.<br/>
               Gaithersburg, MD 20878<br/>
               (301) 840-2446
               <!-- TODO (yang): use google short url -->
