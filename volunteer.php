@@ -42,7 +42,7 @@
           <hr>
           <div class="featurette">
             <p class="lead">  
-              <strong>Questions?</strong> Contact our volunteer coordinator, <a href="contacts.php">Root Teklemarian</a>.
+              <strong>Questions?</strong> Contact our volunteer coordinator, <a href="contacts.php">Root Owusu</a>.
           </div>
         </div><!-- /.span8 -->
 
