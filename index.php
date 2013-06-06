@@ -40,12 +40,13 @@
     <a class="right carousel-control" href="#main-carousel" data-slide="next">&rsaquo;</a>
   </div><!-- /.carousel -->
 
-  <!-- Social bar -->
+
+  <!-- Social bar
   <div id="social">
     <div class="container">
       Random "follow us on facebook, twitter, google groups stuff" here?
     </div>
-  </div><!-- /#social -->
+  </div>/#social -->
 
   <div class="container">
     <div class="marketing">
@@ -80,7 +81,7 @@
             <h3>Pasta Pot Luck & Pep Rally - June 14 <div class="label label-warning">NEW</div></h3>
           <p class="lead">
             Upper County Outdoor Pool</br>
-            Starting at ??:?? pm. We are taking the team photo!
+            Starting at 6:00 pm. We are taking the team photo! Be sure to wear the team suit or a black/dark blue suit if you don't have one.
         </div><!-- /.span8 -->
 
         <!-- Sidebar -->
