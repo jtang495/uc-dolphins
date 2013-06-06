@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<?php require 'head.inc.php' ?>
+<?php require 'includes/head.inc.php' ?>
 <link href="css/carousel.css" rel="stylesheet">
 <title>Home - UCD</title>
 <div id="wrap">
-  <?php require 'navbar.inc.php' ?>
+  <?php require 'includes/navbar.inc.php' ?>
   <!-- Carousel -->
   <div id="main-carousel" class="carousel slide">
     <div class="carousel-inner">
@@ -108,7 +108,7 @@
     </div><!-- /.container -->
   <div id="push"></div>
 </div><!-- /.wrap -->
-<?php require 'footer.inc.php' ?>
+<?php require 'includes/footer.inc.php' ?>
 <script>
    $('#main-carousel').carousel({
       interval: 5000

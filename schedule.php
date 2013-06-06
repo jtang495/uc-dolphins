@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<?php require 'head.inc.php' ?>
+<?php require 'includes/head.inc.php' ?>
 <title>Practice and Meet Schedule - UCD</title>
 
 <div id="wrap">
   <!-- Include navigation bar -->
-  <?php require 'navbar.inc.php' ?>
+  <?php require 'includes/navbar.inc.php' ?>
   <div id="push"></div>
   <div class="container">
     <div class="marketing">
@@ -62,4 +62,4 @@
   </div><!-- /.container -->
   <div id="push"></div>
 </div><!-- /.wrap -->
-<?php require 'footer.inc.php' ?>
+<?php require 'includes/footer.inc.php' ?>
