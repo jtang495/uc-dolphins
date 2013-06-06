@@ -35,6 +35,10 @@
   $(document).ready(function() {
     $("#calendar").fullCalendar({
       events: "https://www.google.com/calendar/feeds/l1sbfdasf9s3jnmd87mndhhltg%40group.calendar.google.com/public/basic",
+      eventClick: function(event) {
+        window.open(event.url, 'gcalevent', 'width=700,height=600');
+        return false;
+      },
       loading: function(bool) {
         if (bool) {
           $("#loading").show();
