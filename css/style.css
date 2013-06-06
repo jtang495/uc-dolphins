@@ -132,8 +132,8 @@ body {
 .featurette.bio-left {
   text-align: left;
 }
-.featurette-image.bio {
-  margin: 20px;
+.featurette-image {
+  margin: 0 50px;
   overflow: hidden;
 }
 .featurette.bio-right {

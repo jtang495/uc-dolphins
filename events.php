@@ -27,7 +27,10 @@
         <img class="featurette-image img-polaroid pull-left" src="img/thumb-team-photo.jpg">
         <h2 class="featurette-heading">Pasta Pot Luck and Pep Rally</h2>
         <p class="lead">
-          Join Upper County on Friday June 14th in gearing up for the first meet of the 2013 season! We will be taking the <strong>team photo</strong> at this event so don't miss out.
+          We will be taking the <strong>team photo</strong> at this event so don't miss out. Please wear the team suit. If not available, wear a black or dark blue colored suit. Pot luck - everyone bring a pasta dish enough for 10 people to share.
+        <p class="lead">
+          Last name <strong>A-L</strong>: Salad</br>
+          Last name <strong>M-Z</strong>: Dessert or Fruit</br>
         <p class="lead">
           <strong>Date:</strong> Friday, June 14</br>
           <strong>Time:</strong> 6:00-8:00 pm</br>
@@ -36,28 +39,18 @@
       <hr class="featurette-divider">
       <div class="featurette">
         <h2 class="featurette-heading">Team Movie Outing. <span class="muted">Monsters University<span></h2>
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/xBzPioph8CI?rel=0" frameborder="0" allowfullscreen></iframe>
         <p class="lead">
-          Some description about this event.
+          Exact time will be announced when showtimes are released!
         <p class="lead">
-          <strong>Date:</strong> Monday June 21</br>
+          <strong>Date:</strong> Monday, June 24</br>
           <strong>Time:</strong> TBD</br>
           <strong>Where:</strong> Kentlands Theater
       </div>
       <hr class="featurette-divider">
       <div class="featurette">
-        <h2 class="featurette-heading">Pajama Party & Movie Night</h2>
-        <p class="lead">
-          Some description about this event.
-      </div>
-      <hr class="featurette-divider">
-      <div class="featurette">
-        <h2 class="featurette-heading">Swim Team Banquet</h2>
-        <p class="lead">
-          Some description about this event.
-      </div>
-      <hr class="featurette-divider">
-      <div class="featurette">
-        <h2 class="featurette-heading">Secret Swimmer</h2>
+        <img class="featurette-image img-polaroid pull-left" src="img/thumb-pajama-night.jpg" style="width: 40%;">
+        <h2 class="featurette-heading">Pajama Movie Night & Secret Swimmer</h2>
         <p class="lead">
           Start shopping, creating, plotting, and planning! Secret swimmer bins will be out first thing each morning. They are three blue crates containers with folders for swimmers labeled alphabetically. Just insert your gift into the swimmers folder, or their swim bag, or their car when they aren't nearby.
         <ul>
@@ -67,6 +60,16 @@
           <li>Candies that <strong>MELT</strong> are a bad idea
           <li>Be sure to leave clues about who you are!
         </ul>
+      </div>
+      <hr class="featurette-divider">
+      <div class="featurette">
+        <h2 class="featurette-heading">Swim Team Banquet</h2>
+        <p class="lead">
+          Some description about this event.
+        <p class="lead">
+          <strong>Date:</strong> Saturday, July 20</br>
+          <strong>Time:</strong> 6:00-9:00 pm</br>
+          <strong>Where:</strong> Shady Grove Elementary School
       </div>
       <hr class="featurette-divider">
     </div><!-- /.marketing -->
