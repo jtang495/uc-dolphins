@@ -32,7 +32,7 @@
           <div class="featurette">
             <h2 class="featurette-heading">
               Community Service.
-              <span class="muted"> Earn SSL hours.</span>
+              <span class="muted"> Earn SSL hours</span>
             </h2>
             <p class="lead">
               Middle and high school swimmers can earn student service learning (SSL) hours by volunteering at meets. <strong>These jobs do not count toward your 5 family obligations.</strong> Jobs that qualify for SSL hours are labeled “SSL Only” in signupgenius.
