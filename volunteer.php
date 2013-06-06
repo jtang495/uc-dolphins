@@ -51,7 +51,7 @@
           <div class="alert alert-warning">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
             <strong>Under Construction!</strong>
-            Pardon our dust while job descriptions are being updated.
+            Pardon our dust.
           </div>
           <h3>Useful Links</h3>
           <p><a href="//www.mcsl.org/documents/2013HandbookRules.pdf" target="_blank">MCSL Handbook</a>
