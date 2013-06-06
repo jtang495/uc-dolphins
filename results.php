@@ -39,25 +39,17 @@
         <div id="week1" class="hero-unit left">
           <div class="text-box">
             <h3>WEEK 1A: vs. Bethesda</h3>
+            <h4>Monday, June 15 2013</h4>
+            <!-- Score
             <h4><font color="green">UC ???</font> - <font color="red">??? BE</font></h4>
-            <p>We're off to a great start! X out of Y best times for Upper County swimmers. Congratulations to John Doe for a new team record in 5000 fly with a time of 3 years. </p>
+            -->
+            <p>
+              Program and meet results will be posted when available.
             <p>
               <button class="btn btn-large" type="button>">Program <i class="icon-download"></i></button>
               <button class="btn btn-large btn-primary" type="button">Results <i class="icon-download icon-white"></i></button>
             </p>
           </div>
-        </div><!-- /.hero-unit -->
-      </div>
-      <hr class="featurette-divider">
-      <div class="featurette">
-        <div id="week2" class="hero-unit right">
-          <h3>Week 2A: vs. Tilden Woods</h3>
-          <p>Some more text</p>
-          <p>
-          <button class="btn btn-large" type="button>">Program <i class="icon-download"></i></button>
-          <button class="btn btn-large btn-primary" type="button">Results <i class="icon-download icon-white"></i></button>
-          </p>
-          <div id="glowingLayout"></div>
         </div><!-- /.hero-unit -->
       </div><!-- /.featurettes -->
     </div><!-- /.marketing -->
