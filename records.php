@@ -33,10 +33,9 @@
           <div class="btn-group" data-toggle="buttons-radio">
             <button id="btn-team" type="button" class="btn active">Team</button>
             <button id="btn-pool" type="button" class="btn">Pool</button>
-            <button id="btn-relay" type="button" class="btn">Relay</button>
           </div>
-        <?php require 'team-records.inc.php' ?>
-        <?php require 'pool-records.inc.php' ?>
+        <?php require 'includes/team-records.inc.php' ?>
+        <?php require 'includes/pool-records.inc.php' ?>
       </div> <!-- /.featurette -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
