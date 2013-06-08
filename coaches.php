@@ -26,7 +26,7 @@
         <img class="featurette-image pull-left img-polaroid bio" src="img/melanie-page.jpg">
         <h2 class="featurette-heading">Melanie Page<span class="muted"> | Assistant Coach</span></h2>
         <p class="lead">
-          Melanie is a senior at Salsbury University studying Health Education with a minor in Psychology. Melanie has been a coach for Upper County for the past 4 summers. Prior to coaching Melanie was a swimmer on our team. She began swimming with Upper County when she was 6.
+          Melanie graudated from Salsbury University in 2013 with a bachelors in health education with a minor in psychology. Melanie has been a coach for Upper County for the past 5 summers. Prior to coaching Melanie was a swimmer on our team. She began swimming with Upper County when she was 6.
       </div>
       <hr class="featurette-divider">
       <div class="featurette bio-right">
