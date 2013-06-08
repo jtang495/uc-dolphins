@@ -50,13 +50,11 @@
         <h2 class="featurette-heading">Pajama Movie Night & Secret Swimmer</h2>
         <p class="lead">
           Start shopping, creating, plotting, and planning! Secret swimmer bins will be out first thing each morning. They are three blue crates containers with folders for swimmers labeled alphabetically. Just insert your gift into the swimmers folder, or their swim bag, or their car when they aren't nearby.
-        <ul>
-          <li>Suggested budget is $15-$20 for the entire two weeks
-          <li>Gifts should be exchanged at least two or three times per week
-          <li>Some good ideas are Gatorade, scratch off lottery tickets, homemade goodies, pictures, water bottles, magazines, dolphin-themed items, swim caps, candy, and notes of encouragement
-          <li>Candies that <strong>MELT</strong> are a bad idea
-          <li>Be sure to leave clues about who you are!
-        </ul>
+        <p class="lead">
+          <strong>Secret Swimmer Forms Due:</strong> Monday, June 24</br>
+          <strong>Movie and Reveal Date:</strong> Sunday, July 14</br>
+          <strong>Time:</strong> 7:00 pm</br>
+          <strong>Where:</strong> Upper County Outdoor Pool
       </div>
       <hr class="featurette-divider">
       <div class="featurette">

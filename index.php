@@ -68,17 +68,7 @@
             Announcements
             <span class="muted"> | Upcoming Events</span>
           </h2>
-          <p class="lead">
-            <h3>Time Trials - June 08 <div class="label label-warning">NEW</div></h3>
-          <p class="lead">We are ready to start our season!
-          <p class="lead">
-            Upper County Outdoor Pool</br>
-            Swimmers should arrive by 6:50 am.</br>
-            <strong>Warm-ups:</strong> 7:00 am <strong>Meet start:</strong> 7:30 am</br>
-          <p class="lead">
-            We stil need volunteers!
-          <hr class="featurette-divider">
-            <h3>Pasta Pot Luck & Pep Rally - June 14 <div class="label label-warning">NEW</div></h3>
+          <h3>Pasta Pot Luck & Pep Rally - June 14 <div class="label label-warning">NEW</div></h3>
           <p class="lead">
             Upper County Outdoor Pool</br>
             Starting at 6:00 pm. We are taking the team photo! Be sure to wear the team suit or a black/dark blue suit if you don't have one.

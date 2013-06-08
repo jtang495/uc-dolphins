@@ -11,8 +11,6 @@
         <p class="lead">
         <p class="lead">
           The 2013-2014 team suit for the Upper County Dolphins will be the <strong>Nike Foil Skin</strong>. We plan to use this suit for 2 years - this summer and next. The suits are available for purchase at <a href="http://www.aardvarkswim.com" target="_blank">Aardvark Swim & Sport</a> - <strong>be sure to ask for the team discount</strong>.
-        <p class="lead">
-          <strong>Questions?</strong> Contact our spirit wear coodinator, <a href="contacts.php">Linda Solomich</a>.
         <div class="alert alert-warning">
           <strong>Note:</strong> Because the Nike Foil Skin jammers are on backorder until the end of June, we are offering an alternate jammer selection, the <strong>Speedo Mercury Splice</strong> for those who do not want to wait. These alternate jammers will also be for sale at the Aardvark Swim store.
         </div>
@@ -58,6 +56,9 @@
             <h4>Jammer</br>$36.00</h4>
           </div>
         </div><!-- /.row-fluid -->
+        <hr>
+        <p class="lead">
+          <strong>Questions?</strong> Contact our spirit wear coodinator, <a href="contacts.php">Linda Solomich</a>.
       </div><!-- /.featurette -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->

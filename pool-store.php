@@ -11,9 +11,6 @@
         <p class="lead">
         <p class="lead">
           The Dolphin Pool Store will be open during all team events and home meets. These items are not available in the Online Dolphin Shop.
-        <p class="lead">
-          <strong>Questions?</strong> Contact our spirit wear coodinator, <a href="contacts.php">Linda Solomich</a>.
-
         <hr>
         <!-- TODO (yang): Align "Buy Now" buttons in each row -->
         <!-- First row -->
@@ -34,11 +31,15 @@
             <h4>Upper County Magnet</br>$5.00</h4>
           </div>
           <div class="span3">
-            <h3>Coming Soon!</h3>
             <!-- TODO (yang): add alternate media -->
-            <h4>Upper County Blanket</br>$30.00</h4>
+            <img src="img/shop-blanket.jpg" alt=""/>
+            <h4>Upper County Blankets</br>$30.00</h4>
           </div>
         </div><!-- /.row-fluid -->
+        <hr>
+        <p class="lead">
+          <strong>Questions?</strong> Contact our spirit wear coodinator, <a href="contacts.php">Linda Solomich</a>.
+
       </div><!-- /.featurette -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
