@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <?php require 'includes/head.inc.php' ?>
 <link href="css/carousel.css" rel="stylesheet">
+<style>
+  #fb-button {
+    height: 25px;
+  }
+</style>
 <title>Home - UCD</title>
 <div id="wrap">
   <?php require 'includes/navbar.inc.php' ?>
@@ -41,12 +46,11 @@
   </div><!-- /.carousel -->
 
 
-  <!-- Social bar
   <div id="social">
     <div class="container">
-      Random "follow us on facebook, twitter, google groups stuff" here?
+      <a href="https://twitter.com/UCDolphins" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @UCDolphins</a>
     </div>
-  </div>/#social -->
+  </div>
 
   <div class="container">
     <div class="marketing">
@@ -105,4 +109,7 @@
    $('#main-carousel').carousel({
       interval: 5000
    })
+</script>
+<script>
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 </script>
