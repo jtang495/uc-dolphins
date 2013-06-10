@@ -71,7 +71,8 @@
           <h3>Pasta Pot Luck & Pep Rally - June 14 <div class="label label-warning">NEW</div></h3>
           <p class="lead">
             Upper County Outdoor Pool</br>
-            Starting at 6:00 pm. We are taking the team photo! Be sure to wear the team suit or a black/dark blue suit if you don't have one.
+            Starting at 6:30 pm. We are taking the team photo! Be sure to wear the team suit or a black/dark blue suit if you don't have one.</br>
+            <strong>Practice is still at the normal time from 4:30-6:30 pm</strong>
         </div><!-- /.span8 -->
 
         <!-- Sidebar -->
