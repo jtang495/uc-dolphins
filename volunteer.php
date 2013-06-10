@@ -63,6 +63,3 @@
   <div id="push"></div>
 </div><!-- /.wrap -->
 <?php require 'includes/footer.inc.php' ?>
-<script>
-    $(".collapse").collapse();
-</script>
