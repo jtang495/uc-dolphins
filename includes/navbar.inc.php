@@ -53,8 +53,6 @@
                 <li class="disabled"><a href="#">MCSL All-Star Individuals</a>
               </ul>
             <li><a href="coaches.php">Coaches</a>
-            <li><a href="records.php">Records</a>
-            <li><a href="history.php">History</a>
           </ul><!-- /.nav -->
         </div><!--/.nav-collapse -->
       </div><!-- /.navbar-inner -->
