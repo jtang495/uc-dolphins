@@ -39,7 +39,7 @@
             <p>
               <a class="btn btn-large btn-primary" href="pdf/ssl-info.pdf">More SSL Info <i class="icon-list icon-white"></i></a>
           </div>
-          <hr>
+          <hr class="featurette-divider">
           <div class="featurette">
             <p class="lead">  
               <strong>Questions?</strong> Contact our volunteer coordinator, <a href="contacts.php">Root Owusu</a>.
@@ -60,6 +60,5 @@
       </div><!-- /.row-fluid -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
-  <div id="push"></div>
 </div><!-- /.wrap -->
 <?php require 'includes/footer.inc.php' ?>
