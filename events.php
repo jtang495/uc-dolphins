@@ -18,7 +18,7 @@
           Last name <strong>M-Z</strong>: Dessert or Fruit</br>
         <p class="lead">
           <strong>Date:</strong> Friday, June 14</br>
-          <strong>Time:</strong> 6:00-8:00 pm</br>
+          <strong>Time:</strong> 6:30-8:30 pm</br>
           <strong>Where:</strong> Upper County Outdoor Pool
       </div>
       <hr class="featurette-divider">
