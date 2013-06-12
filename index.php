@@ -26,7 +26,6 @@
         </div>
       </div><!-- /.item -->
       <div class="item">
-
         <!-- TODO (yang): add alternate media -->
         <img src="img/slide-02.jpg" alt="">
         <div class="container">
@@ -40,7 +39,20 @@
           </div>
         </div>
       </div>
-    </div><!-- /.item -->
+      <div class="item">
+        <!-- TODO (yang): add alternate media -->
+        <img src="img/slide-03.jpg" alt="">
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>Gear Up</h1>
+            <p class="lead">
+              Upper County kicks off the 2013 season with a home meet against the Bethesda Barracudas this Saturday.
+            <p>
+              <a class="btn btn-large btn-primary disabled" href="#">Meet Program <i class="icon-download icon-white"></i></a>
+          </div>
+        </div>
+      </div><!-- /item -->
+    </div>
     <a class="left carousel-control" href="#main-carousel" data-slide="prev">&lsaquo;</a>
     <a class="right carousel-control" href="#main-carousel" data-slide="next">&rsaquo;</a>
   </div><!-- /.carousel -->
