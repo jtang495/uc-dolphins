@@ -36,7 +36,7 @@
     <div class="marketing">
       <h2 class="featurette-heading">Meet Results <span class="muted">| A Meets</span></h2>
       <div class="featurette">
-        <div id="week1" class="hero-unit left">
+        <div id="week1" class="hero-unit left visible-desktop">
           <div class="text-box">
             <h3>WEEK 1A: vs. Bethesda</h3>
             <h4>Monday, June 15 2013</h4>

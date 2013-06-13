@@ -10,7 +10,7 @@
 <div id="wrap">
   <?php require 'includes/navbar.inc.php' ?>
   <!-- Carousel -->
-  <div id="main-carousel" class="carousel slide">
+  <div id="main-carousel" class="carousel slide visible-desktop">
     <div class="carousel-inner">
       <div class="item active">
         <!-- TODO (yang): add alternate media -->
