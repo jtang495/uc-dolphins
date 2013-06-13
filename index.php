@@ -67,11 +67,17 @@
             Woohoo! First deployment successful. But really, this space is reserved for emergency announcements ;)
           </div>
           -->
-
           <h2 class="featurette-heading">
             Announcements
             <span class="muted"> | Upcoming Events</span>
           </h2>
+          <hr class="featuette-divider">
+          <img src="img/website.jpg"/>
+          <h3>Website is live!</h3>
+          <p class="lead">
+            With responsive design for PC and mobile viewing!</br>
+            Please send feedback and bug reports to <a href="mailto:y4n9squared@gmail.com">y4n9squared@gmail.com</a>. If you are filing a bug report, be sure to indicate your browser!
+          <hr class="featurette-divider">
           <h3>Pasta Pot Luck & Pep Rally - June 14 <div class="label label-warning">NEW</div></h3>
           <p class="lead">
             Upper County Outdoor Pool</br>

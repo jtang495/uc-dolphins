@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <?php require 'includes/head.inc.php' ?>
+<style>
+  .bio {
+    width: 20%;
+  }
+</style>
 <title>Coaches - UCD</title>
 <div id="wrap">
   <!-- Include nagivation bar -->
@@ -30,14 +35,12 @@
       </div>
       <hr class="featurette-divider">
       <div class="featurette bio-right">
-        <img class="featurette-image pull-right polaroid bio" src="">
         <h2 class="featurette-heading">Scott Page<span class="muted"> | Assistant Coach</span></h2>
         <p class="lead">
           Scott started swimming with Upper County when he was 7 years old. This will be his second year coaching on the team. Scott is currently pursuing his bachelors degree in biology at Virginia Wesleyan College.
       </div>
       <hr class="featurette-divider">
       <div class="featurette bio-left">
-        <img class="featurette-image pull-left polaroid bio" src="">
         <h2 class="featurette-heading">Yang Yang<span class="muted"> | Assistant Coach</span></h2>
         <p class="lead">
           Yang joined Upper County when he was 13 years old. He was an assistant coach on the team during his senior year in high school in 2008. Yang recently graduated from MIT with a master of engineering degree and will be working for Blizzard Entertainment starting in the fall.
