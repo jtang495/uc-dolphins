@@ -73,13 +73,11 @@
         <div class="span8">
 
 
-          <!-- Uncomment out to make announcement
           <div class="alert alert-error">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
-            <strong>05/27 6:59 pm:</strong>
-            Woohoo! First deployment successful. But really, this space is reserved for emergency announcements ;)
+            <strong>06/13 3:55 pm:</strong>
+            Due to severe thunderstorms, practice this afternoon is CANCELLED.
           </div>
-          -->
           <h2 class="featurette-heading">
             Announcements
             <span class="muted"> | Upcoming Events</span>
