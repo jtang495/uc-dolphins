@@ -149,13 +149,6 @@ body {
       margin-bottom: 0;
       width: auto;
    }
-   .carousel .item {
-      height: 500px;
-   }
-   .carousel img {
-      width: auto;
-      height: 500px;
-   }
    .featurette {
       height: auto;
       padding: 0;
@@ -176,32 +169,6 @@ body {
 }
 
 @media (max-width: 767px) {
-
-   .carousel {
-      margin-left: -20px;
-      margin-right: -20px;
-   }
-   .carousel .container {
-
-   }
-   .carousel .item {
-      height: 400px;
-   }
-   .carousel img {
-      height: 400px;
-   }
-   .carousel-caption {
-      width: 65%;
-      padding: 0 70px;
-      margin-top: 100px;
-   }
-   .carousel-caption h1 {
-      font-size: 30px;
-   }
-   .carousel-caption .lead,
-   .carousel-caption .btn {
-      font-size: 18px;
-   }
 
    .marketing .span4 + .span4 {
       margin-top: 40px;
