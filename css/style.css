@@ -149,10 +149,6 @@ body {
       margin-bottom: 0;
       width: auto;
    }
-   .navbar-inner {
-      border-radius: 0;
-      margin: -20px 0;
-   }
    .carousel .item {
       height: 500px;
    }
@@ -181,9 +177,6 @@ body {
 
 @media (max-width: 767px) {
 
-   .navbar-inner {
-      margin: -20px;
-   }
    .carousel {
       margin-left: -20px;
       margin-right: -20px;
