@@ -88,7 +88,8 @@
             Upper County Outdoor Pool</br>
             Saturday June 15, 2013</br>
             Swimmers should arrive at 7:30 am. Warm-ups begin at 7:40.</br>
-            Meet program to be posted.
+            <p>
+              <a class="btn btn-large btn-info" href="pdf/be-program.pdf" target="_blank">Download Meet Program <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Pasta Pot Luck & Team Photo - June 14</h3>
           <p class="lead">
