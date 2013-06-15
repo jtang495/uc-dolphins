@@ -75,7 +75,8 @@
             Wednesday June 19, 2013</br>
             <strong>Warm-ups: </strong>Time TBA</br>
           <p>
-            <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Directions <i class="icon-map-marker icon-white"></i></a>
+            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer6/4929" target="_blank">Event Sign-ups <i class="icon-edit icon-white"></i></a>
+            <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Home Meet vs. Bethesda</h3>
           <p class="lead">
