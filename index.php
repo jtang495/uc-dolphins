@@ -58,13 +58,11 @@
         <!-- Main column -->
         <div class="span8">
 
-          <!--
-          <div class="alert alert-error">
+          <div class="alert alert-success">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
-            <strong>06/13 3:55 pm:</strong>
-            Due to severe thunderstorms, practice this afternoon is CANCELLED.
+            <strong>Monday Practice:</strong>
+            To celebrate our win against Bethesda, Monday's practice will be a play day!
           </div>
-          -->
           <h2 class="featurette-heading">
             Announcements
             <span class="muted"> | Upcoming Events</span>
