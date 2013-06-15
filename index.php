@@ -39,20 +39,6 @@
           </div>
         </div>
       </div>
-      <div class="item">
-        <!-- TODO (yang): add alternate media -->
-        <img src="img/slide-03.jpg" alt="">
-        <div class="container">
-          <div class="carousel-caption">
-            <h1>Gear Up</h1>
-            <p class="lead">
-              Upper County kicks off the 2013 season with a home meet against the Bethesda Barracudas this Saturday.
-            <p>
-              <a class="btn btn-large btn-primary" href="//www.signupgenius.com" target="_blank">Volunteer Sign-up <i class="icon-user icon-white"></i></a>
-              <a class="btn btn-large" href="pdf/be-program.pdf" target="_blank">Meet Program <i class="icon-download icon-white"></i></a>
-          </div>
-        </div>
-      </div><!-- /item -->
     </div>
     <a class="left carousel-control" href="#main-carousel" data-slide="prev">&lsaquo;</a>
     <a class="right carousel-control" href="#main-carousel" data-slide="next">&rsaquo;</a>
@@ -83,26 +69,22 @@
             Announcements
             <span class="muted"> | Upcoming Events</span>
           </h2>
-          <h3>Home Meet vs. Bethesda <div class="label label-warning">NEW</div></h3>
+          <h3>Away Meet vs. Damascus <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            Damascus Community Pool </br>
+            Wednesday June 19, 2013</br>
+            <strong>Warm-ups: </strong>Time TBA</br>
+          <p>
+            <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Directions <i class="icon-map-marker icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Home Meet vs. Bethesda</h3>
           <p class="lead">
             Upper County Outdoor Pool</br>
             Saturday June 15, 2013</br>
-            Swimmers should arrive at 7:30 am. Warm-ups begin at 7:40.</br>
+            <strong>Final Score: </strong>UC 462 - 329 BE
             <p>
-              <a class="btn btn-large btn-info" href="pdf/be-program.pdf" target="_blank">Download Meet Program <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Pasta Pot Luck & Team Photo - June 14</h3>
-          <p class="lead">
-            Upper County Outdoor Pool</br>
-            Starting at 6:30 pm. We are taking the team photo! Be sure to wear the team suit or a black/dark blue suit if you don't have one.</br>
-            <strong>Practice is still at the normal time from 4:30-6:30 pm</strong>
-              <p><a class="btn btn-info" href="events.php">More Information &raquo</a></p>
-          <hr class="featuette-divider">
-          <img src="img/website.jpg"/>
-          <h3>Website is live!</h3>
-          <p class="lead">
-            With responsive design for PC and mobile viewing!</br>
-            Please send feedback and bug reports to <a href="mailto:y4n9squared@gmail.com">y4n9squared@gmail.com</a>. If you are filing a bug report, be sure to indicate your browser!
+              <a class="btn btn-primary" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
+              <a class="btn btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
         </div><!-- /.span8 -->
 
         <!-- Sidebar -->
