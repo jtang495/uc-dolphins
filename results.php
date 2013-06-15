@@ -36,21 +36,28 @@
     <div class="marketing">
       <h2 class="featurette-heading">Meet Results <span class="muted">| A Meets</span></h2>
       <div class="featurette">
-        <div id="week1" class="hero-unit left">
+        <div id="week1" class="hero-unit left visible-desktop">
           <div class="text-box">
             <h3>WEEK 1A: vs. Bethesda</h3>
             <h4>Monday, June 15 2013</h4>
-            <!-- Score
-            <h4><font color="green">UC ???</font> - <font color="red">??? BE</font></h4>
-            -->
+            <h4><font color="green">UC 462</font> - <font color="red">329 BE</font></h4>
             <p>
-              Program and meet results will be posted when available.
+              Six team records fall as Upper County kicks off its season with a win against the Bethesda Barracudas.
             <p>
-              <button class="btn btn-large" type="button>">Program <i class="icon-download"></i></button>
-              <button class="btn btn-large btn-primary" type="button">Results <i class="icon-download icon-white"></i></button>
-            </p>
+              <a class="btn btn-large" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
           </div>
         </div><!-- /.hero-unit -->
+        <div id="week1-mobile" class="hidden-desktop">
+          <h3>WEEK 1A: vs. Bethesda</h3>
+          <h4>Monday, June 15 2013</h4>
+          <h4><font color="green">UC 462</font> - <font color="red">329 BE</font></h4>
+          <p>
+            Six team records fall as Upper County kicks off its season with a win against the Bethesda Barracudas.
+          <p>
+            <a class="btn" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download"></i></a>
+            <a class="btn btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+        </div>
       </div><!-- /.featurettes -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
