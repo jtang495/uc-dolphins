@@ -49,7 +49,7 @@
               Upper County kicks off the 2013 season with a home meet against the Bethesda Barracudas this Saturday.
             <p>
               <a class="btn btn-large btn-primary" href="//www.signupgenius.com" target="_blank">Volunteer Sign-up <i class="icon-user icon-white"></i></a>
-              <a class="btn btn-large disabled" href="#">Meet Program <i class="icon-download icon-white"></i></a>
+              <a class="btn btn-large" href="pdf/be-program.pdf" target="_blank">Meet Program <i class="icon-download icon-white"></i></a>
           </div>
         </div>
       </div><!-- /item -->
