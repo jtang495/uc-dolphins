@@ -10,12 +10,13 @@
     <div class="marketing">
       <div class="featurette">
         <img class="featurette-image img-polaroid pull-left" src="img/thumb-team-photo.jpg">
-        <h2 class="featurette-heading">Pasta Pot Luck and Pep Rally</h2>
+        <h2 class="featurette-heading">Pasta Pot Luck and Team Photo</h2>
         <p class="lead">
-          We will be taking the <strong>team photo</strong> at this event so don't miss out. Please wear the team suit. If not available, wear a black or dark blue colored suit. Pot luck - everyone bring a pasta dish enough for 10 people to share.
+          We will be taking the <strong>team photo</strong> at this event so don't miss out. Please wear the team suit. If not available, wear a black or dark blue colored suit. Pot luck - everyone bring a pasta dish enough for 10 people to share AND:
         <p class="lead">
-          Last name <strong>A-L</strong>: Salad</br>
-          Last name <strong>M-Z</strong>: Dessert or Fruit</br>
+          Last name <strong>A-M</strong>: Salad, bread, for fruit to share</br>
+          Last name <strong>N-Z</strong>: Dessert or fruit to share</br>
+          Everyone: Bring your own drinks.</br>
         <p class="lead">
           <strong>Date:</strong> Friday, June 14</br>
           <strong>Time:</strong> 6:30-8:30 pm</br>
@@ -60,11 +61,11 @@
       <div class="featurette">
         <h2 class="featurette-heading">Swim Team Banquet</h2>
         <p class="lead">
-          Some description about this event.
+          Please join us for our annual end of season swim banquet! We will have dinner together, trophies will be awarded and we will host our annual cake decorating contest. During the banquet a slide show will be shown.
         <p class="lead">
           <strong>Date:</strong> Saturday, July 20</br>
           <strong>Time:</strong> 6:00-9:00 pm</br>
-          <strong>Where:</strong> Shady Grove Elementary School
+          <strong>Where:</strong> Shady Grove Middle School
       </div>
       <hr class="featurette-divider">
     </div><!-- /.marketing -->
