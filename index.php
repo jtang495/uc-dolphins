@@ -53,20 +53,33 @@
 
   <div class="container">
     <div class="marketing">
+      <div class="alert alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>Monday Practice:</strong>
+        To celebrate our win against Bethesda, Monday's practice will be a play day!
+      </div>
       <div class="row-fluid">
 
         <!-- Main column -->
-        <div class="span8">
-
-          <div class="alert alert-success">
-            <button type="button" class="close" data-dismiss="alert">&times;</button>
-            <strong>Monday Practice:</strong>
-            To celebrate our win against Bethesda, Monday's practice will be a play day!
-          </div>
-          <h2 class="featurette-heading">
-            Announcements
-            <span class="muted"> | Upcoming Events</span>
-          </h2>
+        <div class="span4">
+          <h2 class="featurette-heading">Announcements</h2>
+          <hr class="featurette-divider">
+          <h3>Upper County wins vs. Bethesda!</h3>
+          <p class="lead">
+            Saturday June 15, 2013</br>
+            <strong>Final Score: </strong>UC 462 - 329 BE
+            <p>
+              <a class="btn btn-primary" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
+              <a class="btn btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Website - Records Updated!</h3>
+          <p class="lead">
+            Team and pool records are now available online.
+        </div><!-- /.span4 -->
+        
+        <div class="span5">
+          <h2 class="featurette-heading">Upcoming Events</h2>
+          <hr class="featurette-divider">
           <h3>Away Meet vs. Damascus <span class="label label-warning">NEW</span></h3>
           <p class="lead">
             Damascus Community Pool </br>
@@ -75,19 +88,10 @@
           <p>
             <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer6/4929" target="_blank">Event Sign-ups <i class="icon-edit icon-white"></i></a>
             <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Home Meet vs. Bethesda</h3>
-          <p class="lead">
-            Upper County Outdoor Pool</br>
-            Saturday June 15, 2013</br>
-            <strong>Final Score: </strong>UC 462 - 329 BE
-            <p>
-              <a class="btn btn-primary" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
-              <a class="btn btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-        </div><!-- /.span8 -->
+        </div><!-- /.span4 -->
 
         <!-- Sidebar -->
-        <div class="span4 sidebar">
+        <div class="span3 sidebar">
           <!-- TODO (yang): add alternate media. separate styling from scripting. -->
           <img class="img" src="img/dolphin-logo.jpg" width="150px">
             <h3>Registration is open!</h3>
