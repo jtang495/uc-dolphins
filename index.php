@@ -53,16 +53,22 @@
 
   <div class="container">
     <div class="marketing">
+      <!--
       <div class="alert alert-success">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
         <strong>Monday Practice:</strong>
         To celebrate our win against Bethesda, Monday's practice will be a play day!
       </div>
+      -->
       <div class="row-fluid">
 
         <!-- Main column -->
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
+          <hr class="featurette-divider">
+          <h3>Ribbons <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            All ribbons, including personal best ribbons, are filed in your family folder after every meet. Please check them regularly!
           <hr class="featurette-divider">
           <h3>Upper County wins vs. Bethesda!</h3>
           <p class="lead">
@@ -71,33 +77,34 @@
             <p>
               <a class="btn btn-primary" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
               <a class="btn btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Website - Records Updated!</h3>
-          <p class="lead">
-            Team and pool records are now available online.
         </div><!-- /.span4 -->
         
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Away Meet vs. Damascus <span class="label label-warning">NEW</span></h3>
+          <h3>Away Meet vs. Damascus</h3>
           <p class="lead">
             Damascus Community Pool </br>
             Wednesday June 19, 2013</br>
-            <strong>Warm-ups: </strong>Time TBA</br>
+            <strong>Warm-ups: </strong>5:00 pm</br>
+          <div class="alert alert-info">We still need 4 timers and 1 backup worker! <a href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Sign up</a> to volunteer!</div>
           <p>
+            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-ups <i class="icon-edit icon-white"></i></a>
             <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer6/4929" target="_blank">Event Sign-ups <i class="icon-edit icon-white"></i></a>
             <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Parent Party <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            Come hang out with the parents of Upper County!<br>
+            <strong>When: </strong>June 22 from 7:00-11:00 pm<br>
+            <strong>Where: </strong>The O'Leary Residence<br>
+          <p>
+            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-parent" target="_blank">RSVP <i class="icon-envelope icon-white"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
         <div class="span3 sidebar">
           <!-- TODO (yang): add alternate media. separate styling from scripting. -->
-          <img class="img" src="img/dolphin-logo.jpg" width="150px">
-            <h3>Registration is open!</h3>
-              <p>Upper County Dolphins is a Division A swim team in the Montgomery County Swim League (MCSL). We are #2 in the top division! Register online. Our course number is 351003.</p>
-              <p><a class="btn" href="http://www6.montgomerycountymd.gov/rectmpl.asp?url=/content/rec/index.asp" target="_blank">Register Online &raquo;</a></p>
-              <hr>
               <img class="img" src="img/calendar.png" width="150px">
               <h3>Stay up to date!</h3>
               <p>View the practice schedule, meets, team gatherings, and other important MCSL dates.</p>
