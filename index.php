@@ -90,7 +90,7 @@
           <div class="alert alert-info">We still need 4 timers and 1 backup worker! <a href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Sign up</a> to volunteer!</div>
           <p>
             <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-ups <i class="icon-edit icon-white"></i></a>
-            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer6/4929" target="_blank">Event Sign-ups <i class="icon-edit icon-white"></i></a>
+            <a class="btn btn-primary" href="pdf/da-program.pdf" target="_blank">Meet Program <i class="icon-download icon-white"></i></a>
             <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Parent Party <span class="label label-warning">NEW</span></h3>
