@@ -42,7 +42,7 @@
           Exact time will be announced when showtimes are released!
         <p class="lead">
           <strong>Date:</strong> Monday, June 24</br>
-          <strong>Time:</strong> TBD</br>
+          <strong>Time:</strong> 2:30 pm</br>
           <strong>Where:</strong> Kentlands Theater
       </div>
       <hr class="featurette-divider">

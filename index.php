@@ -66,40 +66,44 @@
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
           <hr class="featurette-divider">
-          <h3>Ribbons <span class="label label-warning">NEW</span></h3>
+          <h3>Damascus Results <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            Wednesday June 19, 2013</br>
+            <p>
+              <a class="btn btn-primary" href="pdf/da-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
+              <a class="btn btn-primary" href="pdf/da-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Ribbons</h3>
           <p class="lead">
             All ribbons, including personal best ribbons, are filed in your family folder after every meet. Please check them regularly!
-          <hr class="featurette-divider">
-          <h3>Upper County wins vs. Bethesda!</h3>
-          <p class="lead">
-            Saturday June 15, 2013</br>
-            <strong>Final Score: </strong>UC 462 - 329 BE
-            <p>
-              <a class="btn btn-primary" href="pdf/be-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
-              <a class="btn btn-primary" href="pdf/be-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
         
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Away Meet vs. Damascus</h3>
+          <h3>Away Meet vs. Tilden Woods <span class="label label-warning">NEW</span></h3>
           <p class="lead">
-            Damascus Community Pool </br>
-            Wednesday June 19, 2013</br>
-            <strong>Warm-ups: </strong>5:00 pm</br>
-          <div class="alert alert-info">We still need 4 timers and 1 backup worker! <a href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Sign up</a> to volunteer!</div>
+            Tilden Woods Community Pool<br>
+            Saturday June 22, 2013<br>
+            <strong>Warm-ups: </strong>TBA<br>
+          <p class="lead">
+            We still need a ribbon writer, clerk of course, and backup volunteer!
           <p>
-            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-ups <i class="icon-edit icon-white"></i></a>
-            <a class="btn btn-primary" href="pdf/da-program.pdf" target="_blank">Meet Program <i class="icon-download icon-white"></i></a>
-            <a class="btn btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
+            <a class="btn btn-info" href="http://goo.gl/maps/skhF9" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
           <hr class="featurette-divider">
-          <h3>Parent Party <span class="label label-warning">NEW</span></h3>
+          <h3>Parent Party</h3>
           <p class="lead">
             Come hang out with the parents of Upper County!<br>
             <strong>When: </strong>June 22 from 7:00-11:00 pm<br>
             <strong>Where: </strong>The O'Leary Residence<br>
           <p>
             <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-parent" target="_blank">RSVP <i class="icon-envelope icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Team Movie Outing <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            We are watching Monsters University!<br>
+            <strong>When: </strong>Monday June 24 at 2:30 pm<br>
+            <strong>Where: </strong>Kentlands Theater<br>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
