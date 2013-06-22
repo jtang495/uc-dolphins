@@ -31,14 +31,14 @@
             <ul class="dropdown-menu">
               <li class="nav-header">A Meets
               <li><a href="results.php#week1a">Week 1: vs. Bethesda</a>
-              <li class="disabled"><a href="results.php#week2a">Week 2: vs. Tilden Woods</a>
+              <li><a href="results.php#week2a">Week 2: vs. Tilden Woods</a>
               <li class="disabled"><a href="results.php#week3a">Week 3: vs. Darnestown</a>
               <li class="disabled"><a href="results.php#week4a">Week 4: vs. Stonegate</a>
               <li class="disabled"><a href="results.php#week5a">Week 5: vs. Rockville</a>
               <li class="disabled"><a href="results.php#relaya">Relay Carnival</a>
               <li class="divider">
               <li class="nav-header">B Meets
-              <li class="disabled"><a href="#">Week 1: vs. Damascus</a>
+              <li><a href="results.php#week1b">Week 1: vs. Damascus</a>
               <li class="disabled"><a href="#">Week 2: vs. Olney Mill</a>
               <li class="disabled"><a href="#">Week 3: vs. Mill Creek Towne</a>
               <li class="disabled"><a href="#">Week 4: vs. Hallowell</a>

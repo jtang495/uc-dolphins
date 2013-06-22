@@ -53,20 +53,27 @@
 
   <div class="container">
     <div class="marketing">
-      <!--
+      
       <div class="alert alert-success">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <strong>Monday Practice:</strong>
-        To celebrate our win against Bethesda, Monday's practice will be a play day!
+        <strong>Upper County beats Tilden Woods for a second straight year! Final Score: 438 - 353. </strong>
+        Monday's practice will be a play day!
       </div>
-      -->
+      
       <div class="row-fluid">
 
         <!-- Main column -->
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
           <hr class="featurette-divider">
-          <h3>Damascus Results <span class="label label-warning">NEW</span></h3>
+          <h3>UC wins Week 2A! <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            Saturday June 22, 2013<br>
+            <strong>Final Score: </strong>UC 438 - 353 TW<br>
+          <p>
+            <a class="btn btn-primary" href="pdf/tw-results" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Damascus Results </h3>
           <p class="lead">
             Wednesday June 19, 2013</br>
             <p>
@@ -81,16 +88,6 @@
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Away Meet vs. Tilden Woods <span class="label label-warning">NEW</span></h3>
-          <p class="lead">
-            Tilden Woods Community Pool<br>
-            Saturday June 22, 2013<br>
-            <strong>Warm-ups: </strong>TBA<br>
-          <p class="lead">
-            We still need a ribbon writer, clerk of course, and backup volunteer!
-          <p>
-            <a class="btn btn-info" href="http://goo.gl/maps/skhF9" target="_blank">Pool Directions <i class="icon-map-marker icon-white"></i></a>
-          <hr class="featurette-divider">
           <h3>Parent Party</h3>
           <p class="lead">
             Come hang out with the parents of Upper County!<br>
@@ -99,7 +96,7 @@
           <p>
             <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-parent" target="_blank">RSVP <i class="icon-envelope icon-white"></i></a>
           <hr class="featurette-divider">
-          <h3>Team Movie Outing <span class="label label-warning">NEW</span></h3>
+          <h3>Team Movie Outing</h3>
           <p class="lead">
             We are watching Monsters University!<br>
             <strong>When: </strong>Monday June 24 at 2:30 pm<br>
