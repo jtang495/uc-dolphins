@@ -71,7 +71,7 @@
             Saturday June 22, 2013<br>
             <strong>Final Score: </strong>UC 438 - 353 TW<br>
           <p>
-            <a class="btn btn-primary" href="pdf/tw-results" target="_blank">Results <i class="icon-download icon-white"></i></a>
+            <a class="btn btn-primary" href="pdf/tw-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Damascus Results </h3>
           <p class="lead">
