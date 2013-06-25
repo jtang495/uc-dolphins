@@ -52,7 +52,7 @@
           <span class="muted"> B Meets</span>
         </h2>
         <p>Week 1 (6/19): Upper County @ Damascus <a class="btn btn-mini btn-info" href="http://goo.gl/maps/NwKFU" target="_blank">Directions <i class="icon-map-marker icon-white"></i></a>
-        <p>Week 2 (6/28): Upper County @ Olney Mill <a class="btn btn-mini btn-info">Directions <i class="icon-map-marker icon-white"></i></a>
+        <p>Week 2 (6/28): Upper County @ Olney Mill <a class="btn btn-mini btn-info" href="http://goo.gl/maps/HX2yc" target="blank">Directions <i class="icon-map-marker icon-white"></i></a>
         <p>Week 3 (7/03): Mill Creek Towne @ Upper County
         <p>Week 4 (7/10): Upper County @ Hallowell <a class="btn btn-mini btn-info">Directions <i class="icon-map-marker icon-white"></i></a>
         <p>Week 5 (7/14): B Relay Carnival @ Upper County

@@ -53,13 +53,13 @@
 
   <div class="container">
     <div class="marketing">
-      
+      <!--      
       <div class="alert alert-success">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
         <strong>Upper County beats Tilden Woods for a second straight year! Final Score: 438 - 353. </strong>
         Monday's practice will be a play day!
       </div>
-      
+      -->
       <div class="row-fluid">
 
         <!-- Main column -->
@@ -88,19 +88,23 @@
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Parent Party</h3>
+          <h3>B Meet vs. Olney Mill</h3>
           <p class="lead">
-            Come hang out with the parents of Upper County!<br>
-            <strong>When: </strong>June 22 from 7:00-11:00 pm<br>
-            <strong>Where: </strong>The O'Leary Residence<br>
+            Wednesday, June 26<br>
+            <strong>Where: </strong>Olney Mill<br>
           <p>
-            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-parent" target="_blank">RSVP <i class="icon-envelope icon-white"></i></a>
+            <a class="btn btn-info" href="http://goo.gl/maps/HX2yc" target="_blank">Directions <i class="icon-map-marker icon-white"></i></a>
           <hr class="featurette-divider">
-          <h3>Team Movie Outing</h3>
+          <h3>Pep Rally & International Pot Luck</h3>
           <p class="lead">
-            We are watching Monsters University!<br>
-            <strong>When: </strong>Monday June 24 at 2:30 pm<br>
-            <strong>Where: </strong>Kentlands Theater<br>
+            Friday, June 28 from 6:00-8:00 pm<br>
+            <strong>Where: </strong>Upper County Outdoor Pool<br>
+            Secret swimmers will be handed out at the potluck! More information to follow.
+          <hr class="featurette-divider">
+          <h3>A Meet vs. Damascus</h3>
+          <p class="lead">
+            Saturday, June 29<br>
+            <strong>Where: </strong>Upper County Outdoor Pool<br>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
