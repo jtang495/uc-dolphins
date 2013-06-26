@@ -101,7 +101,7 @@
             <strong>Where: </strong>Upper County Outdoor Pool<br>
             Secret swimmers will be handed out at the potluck! More information to follow.
           <hr class="featurette-divider">
-          <h3>A Meet vs. Damascus</h3>
+          <h3>A Meet vs. Darnestown</h3>
           <p class="lead">
             Saturday, June 29<br>
             <strong>Where: </strong>Upper County Outdoor Pool<br>
