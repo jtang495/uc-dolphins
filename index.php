@@ -92,14 +92,28 @@
           <p class="lead">
             Wednesday, June 26<br>
             <strong>Where: </strong>Olney Mill<br>
+            <strong>Arrive: </strong>5:00 pm<br>
           <p>
             <a class="btn btn-info" href="http://goo.gl/maps/HX2yc" target="_blank">Directions <i class="icon-map-marker icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Pep Rally & International Pot Luck</h3>
           <p class="lead">
             Friday, June 28 from 6:00-8:00 pm<br>
-            <strong>Where: </strong>Upper County Outdoor Pool<br>
-            Secret swimmers will be handed out at the potluck! More information to follow.
+            <strong>Where: </strong>Upper County Outdoor Pool
+          <p class="lead">
+            Secret swimmers will be handed out at the potluck! Each family should bring a main dish that is one of your family's favorites. The servings should be for approximately 8-10 people.
+          <p class="lead">Please prepare <strong>two identical index cards</strong> which will be put along side your dishes:
+            <ul>
+              <li class="lead">Name of food, country/region, dominant taste (sweet, sour, spicy, etc.)
+              <li class="lead">Major ingredients
+            </ul>
+          <p class="lead">
+            <strong>In addition:</strong>
+            <ul>
+              <li class="lead"><strong>Last name A-M:</strong> Bring a dessert to share
+              <li class="lead"><strong>Last name N-Z:</strong> Bring a side dish (salad, fruit, bread, etc) to share
+              <li class="lead"><strong>Bring your own drinks!</strong>
+            </ul>
           <hr class="featurette-divider">
           <h3>A Meet vs. Darnestown</h3>
           <p class="lead">
