@@ -39,7 +39,7 @@
               <li class="divider">
               <li class="nav-header">B Meets
               <li><a href="results.php#week1b">Week 1: vs. Damascus</a>
-              <li class="disabled"><a href="#">Week 2: vs. Olney Mill</a>
+              <li><a href="results.php#week2b">Week 2: vs. Olney Mill</a>
               <li class="disabled"><a href="#">Week 3: vs. Mill Creek Towne</a>
               <li class="disabled"><a href="#">Week 4: vs. Hallowell</a>
               <li class="disabled"><a href="#">Week 5: vs. Flower Valley</a>

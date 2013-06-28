@@ -51,6 +51,19 @@
           </div>
         </div><!-- /.hero-unit -->
       </div><!-- /.featurettes -->
+      <div class="featurette">
+        <a name="week2b"></a>
+        <div id="week2b" class="hero-unit left">
+          <div class="text-box">
+            <h3>WEEK 2B: vs. Olney Mill</h3>
+            <h4>Wednesday, June 26 2013</h4>
+            <h4><font color="green">UC 433.5</font> - <font color="red">273.5 OM</font></h4>
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/om-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
   <div id="push"></div>

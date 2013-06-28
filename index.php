@@ -66,35 +66,23 @@
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
           <hr class="featurette-divider">
-          <h3>UC wins Week 2A! <span class="label label-warning">NEW</span></h3>
+          <h3>B Meet vs. Olney Mill <span class="label label-warning">NEW</span></h3>
+          <p class="lead">  
+            Wednesday, June 26, 2013<br>
+            <strong>Final Score: </strong> UC 433.5 - 273.5 OM
+          <p>
+            <a class="btn btn-primary" href="pdf/om-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>A Meet vs. Tilden Woods</h3>
           <p class="lead">
             Saturday June 22, 2013<br>
-            <strong>Final Score: </strong>UC 438 - 353 TW<br>
+            <strong>Final Score: </strong>UC 438 - 353 TW
           <p>
             <a class="btn btn-primary" href="pdf/tw-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Damascus Results </h3>
-          <p class="lead">
-            Wednesday June 19, 2013</br>
-            <p>
-              <a class="btn btn-primary" href="pdf/da-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
-              <a class="btn btn-primary" href="pdf/da-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Ribbons</h3>
-          <p class="lead">
-            All ribbons, including personal best ribbons, are filed in your family folder after every meet. Please check them regularly!
         </div><!-- /.span4 -->
         
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
-          <hr class="featurette-divider">
-          <h3>B Meet vs. Olney Mill</h3>
-          <p class="lead">
-            Wednesday, June 26<br>
-            <strong>Where: </strong>Olney Mill<br>
-            <strong>Arrive: </strong>5:00 pm<br>
-          <p>
-            <a class="btn btn-info" href="http://goo.gl/maps/HX2yc" target="_blank">Directions <i class="icon-map-marker icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Pep Rally & International Pot Luck</h3>
           <p class="lead">
@@ -119,6 +107,8 @@
           <p class="lead">
             Saturday, June 29<br>
             <strong>Where: </strong>Upper County Outdoor Pool<br>
+            <strong>Warm-ups: </strong>7:30 am<br>
+            <strong>Meet starts: </strong>9:00 am
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
