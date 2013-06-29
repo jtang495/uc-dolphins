@@ -109,7 +109,7 @@
     <td>Jul 30, 2006
     <td>1:01.56
     <td>15-18 100m Back
-    <td>1:08:33
+    <td>1:08:33 <span class="label label-warning">NEW</span>
     <td>Jun 29, 2013
     <td>Carly Alvarado
     <td>22
