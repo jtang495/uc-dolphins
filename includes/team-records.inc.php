@@ -35,7 +35,7 @@
     <td>6
   <tr>
     <td>7
-    <td>Samuel Tartar
+    <td>Samuel Tarter
     <td>Jul 11, 2009
     <td>31.57
     <td>9-10 50m Free
@@ -109,9 +109,9 @@
     <td>Jul 30, 2006
     <td>1:01.56
     <td>15-18 100m Back
-    <td>1:08:52
-    <td>Jul 05, 1997
-    <td>Carolina Douglas
+    <td>1:08:33
+    <td>Jun 29, 2013
+    <td>Carly Alvarado
     <td>22
   <tr>
     <td>23
@@ -226,8 +226,8 @@
   <tr>
     <td>45
     <td>Brandon Cu
-    <td>Jun 15, 2013
-    <td>28.29 <span class="label label-warning">NEW</span>
+    <td>Jun 29, 2013
+    <td>27.92 <span class="label label-warning">NEW</span>
     <td>13-14 50m Fly
     <td>30.31
     <td>Jul 29, 2012
