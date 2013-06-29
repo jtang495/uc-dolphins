@@ -84,31 +84,14 @@
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Pep Rally & International Pot Luck</h3>
-          <p class="lead">
-            Friday, June 28 from 6:00-8:00 pm<br>
-            <strong>Where: </strong>Upper County Outdoor Pool
-          <p class="lead">
-            Secret swimmers will be handed out at the potluck! Each family should bring a main dish that is one of your family's favorites. The servings should be for approximately 8-10 people.
-          <p class="lead">Please prepare <strong>two identical index cards</strong> which will be put along side your dishes:
-            <ul>
-              <li class="lead">Name of food, country/region, dominant taste (sweet, sour, spicy, etc.)
-              <li class="lead">Major ingredients
-            </ul>
-          <p class="lead">
-            <strong>In addition:</strong>
-            <ul>
-              <li class="lead"><strong>Last name A-M:</strong> Bring a dessert to share
-              <li class="lead"><strong>Last name N-Z:</strong> Bring a side dish (salad, fruit, bread, etc) to share
-              <li class="lead"><strong>Bring your own drinks!</strong>
-            </ul>
-          <hr class="featurette-divider">
           <h3>A Meet vs. Darnestown</h3>
           <p class="lead">
             Saturday, June 29<br>
             <strong>Where: </strong>Upper County Outdoor Pool<br>
             <strong>Warm-ups: </strong>7:30 am<br>
             <strong>Meet starts: </strong>9:00 am
+          <p>
+            <a class="btn btn-primary" href="pdf/dt-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
