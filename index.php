@@ -66,32 +66,52 @@
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
           <hr class="featurette-divider">
-          <h3>A Meet vs. Darnestown</h3>
-          <p class="lead">
-            Saturday June 29, 2013<br>
-            <strong>Final Score: </strong>UC 512 - 280 DT
-          <p>
-            <a class="btn" href="pdf/dt-program.pdf" target="_blank">Program <i class="icon-download"></i></a>
-            <a class="btn btn-primary" href="pdf/dt-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
           <h3>B Meet vs. Olney Mill <span class="label label-warning">NEW</span></h3>
           <p class="lead">  
             Wednesday, June 26, 2013<br>
             <strong>Final Score: </strong> UC 433.5 - 273.5 OM
           <p>
             <a class="btn btn-primary" href="pdf/om-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>A Meet vs. Tilden Woods</h3>
+          <p class="lead">
+            Saturday June 22, 2013<br>
+            <strong>Final Score: </strong>UC 438 - 353 TW
+          <p>
+            <a class="btn btn-primary" href="pdf/tw-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
         
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
-          <hr class="featurette-divider">
-          <h3>B Meet vs. Mill Creeke Town</h3>
-          <p class="lead">
-            Wednesday, July 3, 2013<br>
-            <strong>Where: </strong>Upper County Outdoor Pool<br>
+		  <hr class="featurette-divider">
+          <h3>This week: </h3>
+          <p class="lead">  
+            <strong>Wednesday, July 3, 2013: </strong><br>
+			Home B meet - vs. Mill Creek <br>
+			(if you are swimming go to sign up genius and sign up!!!) <br>
+		  <p>
+			<a class="btn btn-info" href="http://www.signupgenius.com/go/10C0D4DABA62B0-time2" target="_blank">Swimmer Sign-up <i class="icon-user icon-white"></i></a>
+			<a class="btn btn-info" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil icon-white"></i></a>
+		  <hr class="featurette-divider">		
+		  <p class="lead">  
+			<strong>Thursday - 4th of July - Relay Starts </strong><br>
+				**8:30-9:30 - 11 & Over <br>
+				**9:30-10:30 - 10 & Unders <br>
+		  <p>
+		  <hr class="featurette-divider">
+		  <p class="lead">  
+			<strong>Friday - Pot Luck & Pep Rally - 6-8pm - Pasta Pot luck </strong><br>
+			<h1> Saturday - Home A Meet - STONEGATE!!!! </h1>
           <p>
-            <a class="btn disabled" href="" target="_blank">Volunteer Sign-up <i class="icon-download"></i></a>
-            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer7" target="_blank">Meet Sign-up <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>A Meet vs. Darnestown</h3>
+          <p class="lead">
+            Saturday, June 29<br>
+            <strong>Where: </strong>Upper County Outdoor Pool<br>
+            <strong>Warm-ups: </strong>7:30 am<br>
+            <strong>Meet starts: </strong>9:00 am
+          <p>
+            <a class="btn btn-primary" href="pdf/dt-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
