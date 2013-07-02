@@ -69,7 +69,7 @@
           <h3>A Meet vs. Darnestown <span class="label label-warning">NEW</span></h3>
           <p class="lead">  
             Saturday, June 29, 2013<br>
-            <strong>Final Score: </strong> UC 512 - 280 OM
+            <strong>Final Score: </strong> UC 512 - 280 DT
           <p>
             <a class="btn btn-primary" href="pdf/dt-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
