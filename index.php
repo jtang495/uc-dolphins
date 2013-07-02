@@ -95,7 +95,7 @@
           <p class="lead">
             Wednesday, July 3, 2013<br>
 		      <p>
-            <a class="btn" href="http://www.signupgenius.com/go/10C0D4DABA62B0-time2" target="_blank">Swimmer Sign-up <i class="icon-user"></i></a>
+            <a class="btn" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer7" target="_blank">Swimmer Sign-up <i class="icon-user"></i></a>
             <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Relay Starts Practice <span class="label label-warning">NEW</span></h3>
