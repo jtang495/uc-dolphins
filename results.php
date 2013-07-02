@@ -64,6 +64,21 @@
           </div>
         </div><!-- /.hero-unit -->
       </div><!-- /.featurettes -->
+	  <div class="featurette">
+        <a name="week3a"></a>
+        <div id="week3a" class="hero-unit left">
+          <div class="text-box">
+            <h3>WEEK 3A: vs. Darnestown</h3>
+            <h4>Saturday, June 29 2013</h4>
+            <h4><font color="green">UC 512</font> - <font color="red">280 DT</font></h4>
+            <p>
+              Upper County beats Darnestown for the third consecutive win!
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/dt-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
   <div id="push"></div>
