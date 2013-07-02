@@ -53,7 +53,7 @@
 
   <div class="container">
     <div class="marketing">
-      <!--      
+      <!--
       <div class="alert alert-success">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
         <strong>Upper County beats Tilden Woods for a second straight year! Final Score: 438 - 353. </strong>
@@ -73,8 +73,8 @@
           <p>
             <a class="btn btn-primary" href="pdf/dt-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
-          <h3>B Meet vs. Olney Mill </h3>
-          <p class="lead">  
+          <h3>B Meet vs. Olney Mill</h3>
+          <p class="lead">
             Wednesday, June 26, 2013<br>
             <strong>Final Score: </strong> UC 433.5 - 273.5 OM
           <p>
@@ -87,38 +87,33 @@
           <p>
             <a class="btn btn-primary" href="pdf/tw-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
-        
+
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
-		  <hr class="featurette-divider">
-          <h3>This week: </h3>
-          <p class="lead">  
-            <strong>Wednesday, July 3, 2013: </strong><br>
-			Home B meet - vs. Mill Creek <br>
-			(if you are swimming go to sign up genius and sign up!!!) <br>
-		  <p>
-			<a class="btn btn-info" href="http://www.signupgenius.com/go/10C0D4DABA62B0-time2" target="_blank">Swimmer Sign-up <i class="icon-user icon-white"></i></a>
-			<a class="btn btn-info" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil icon-white"></i></a>
-		  <hr class="featurette-divider">		
-		  <p class="lead">  
-			<strong>Thursday - 4th of July - Relay Starts </strong><br>
-				**8:30-9:30 - 11 & Over <br>
-				**9:30-10:30 - 10 & Unders <br>
-		  <p>
-		  <hr class="featurette-divider">
-		  <p class="lead">  
-			<strong>Friday - Pot Luck & Pep Rally - 6-8pm - Pasta Pot luck </strong><br>
-			<h1> Saturday - Home A Meet - STONEGATE!!!! </h1>
-          <p>
           <hr class="featurette-divider">
-          <h3>A Meet vs. Darnestown</h3>
+          <h3>B Meet vs. Mill Creeke Town <span class="label label-warning">NEW</span></h3>
           <p class="lead">
-            Saturday, June 29<br>
+            Wednesday, July 3, 2013<br>
+		      <p>
+            <a class="btn" href="http://www.signupgenius.com/go/10C0D4DABA62B0-time2" target="_blank">Swimmer Sign-up <i class="icon-user"></i></a>
+            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Relay Starts Practice <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">
+			      Thursday, July 4th, 2013<br>
+				    11 & Overs: 8:30-9:30 am<br>
+				    10 & Unders: 9:30-10:30 am<br>
+          <hr class="featurette-divider">
+          <h3>Pot Luck & Pep Rally <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">
+			      Friday, July 5, 2013 from 6:00-8:00 pm<br>
+          <hr class="featurette-divider">
+          <h3>A Meet vs. Stonegate <span class="label label-warning">NEW</span></h3>
+          <p class="lead">
+            Saturday, July 6, 2013<br>
             <strong>Where: </strong>Upper County Outdoor Pool<br>
             <strong>Warm-ups: </strong>7:30 am<br>
             <strong>Meet starts: </strong>9:00 am
-          <p>
-            <a class="btn btn-primary" href="pdf/dt-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
