@@ -83,7 +83,7 @@
           <h3>A Meet vs. Tilden Woods</h3>
 			<p class="lead">
               Saturday June 22, 2013<br>
-			  <strong>Final Score: </strong>UC 438 - 353 TW
+              <strong>Final Score: </strong>UC 438 - 353 TW
 			<p>
 			  <a class="btn btn-primary" href="pdf/tw-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
@@ -93,42 +93,43 @@
           <hr class="featurette-divider">
           <h3>B Meet vs. Mill Creeke Town <span class="label label-warning">NEW</span></h3>
 			<p class="lead">
-			  Wednesday, July 3, 2013<br>
-			  Swimmers arrive at 4:45pm.<br>
-			  Volunteers arrive 5:15-5:30.<br>
-			  <strong> Theme: </strong>  Harlem Shake. Dress Crazy!<br>
-			  <img src="img/harlem-shake.png" alt="harlem shake image"/>
+          Wednesday, July 3, 2013<br>
+          Swimmers arrive at 4:45pm.<br>
+          Volunteers arrive 5:15-5:30.<br>
+          <strong> Theme: </strong>  Harlem Shake. Dress Crazy!<br>
+          <img src="img/harlem-shake.png" alt="harlem shake image"/>
 			<p>
-			  <a class="btn btn-primary" href="pdf/mct-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Relay Starts Practice <span class="label label-warning">NEW</span></h3>
+          <a class="btn btn-primary" href="pdf/mct-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
+        <hr class="featurette-divider">
+        <h3>Relay Starts Practice <span class="label label-warning">NEW</span></h3>
 			<p class="lead">
-			  Thursday, July 4th, 2013<br>
-			  11 & Overs: 8:30-9:30 am<br>
-			  10 & Unders: 9:30-10:30 am<br>
-          <hr class="featurette-divider">
-          <h3>Pot Luck & Pep Rally <span class="label label-warning">NEW</span></h3>
+          Thursday, July 4th, 2013<br>
+          11 & Overs: 8:30-9:30 am<br>
+          10 & Unders: 9:30-10:30 am<br>
+        <hr class="featurette-divider">
+        <h3>Pot Luck & Pep Rally <span class="label label-warning">NEW</span></h3>
 			<p class="lead">
-			  Friday, July 5, 2013 from 6:00-8:00 pm<br>
-			  <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-social2" target="_blank">Volunteer Sign-up <i class="icon-download icon-pencil"></i></a>
-		  <hr class="featurette-divider">
-          <h3>A Meet vs. Stonegate <span class="label label-warning">NEW</span></h3>
+          Friday, July 5, 2013 from 6:00-8:00 pm<br>
+          <a class="btn btn-info" href="pdf/family-potluck-info.pdf" target="_blank">More Details<i class="icon-arrow-right"></i></a>
+          <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-social2" target="_blank">Volunteer Sign-up <i class="icon-pencil"></i></a>
+        <hr class="featurette-divider">
+        <h3>A Meet vs. Stonegate <span class="label label-warning">NEW</span></h3>
 			<p class="lead">
-			  Saturday, July 6, 2013<br>
-			  <strong>Where: </strong>Upper County Outdoor Pool<br>
-			  <strong>Warm-ups: </strong>7:30 am<br>
+          Saturday, July 6, 2013<br>
+          <strong>Where: </strong>Upper County Outdoor Pool<br>
+          <strong>Warm-ups: </strong>7:30 am<br>
 		      <strong>Meet starts: </strong>9:00 am
-		  <hr class="featurette-divider">
-          <h3>A Relay Carnival <span class="label label-warning">NEW</span></h3>
-		    <p class="lead">
-			  Sunday, July 7, 2013 <br>
-			  <strong>Where: </strong>Stonegate Outdoor Pool<br>
-		  <hr class="featurette-divider">
-          <h3>B Relay Carnival <span class="label label-warning">NEW</span></h3>
-		    <p class="lead">
-			  Sunday, July 14, 2013<br>
-			  Please sign-up with just a name. <br>
-			  <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-brelay2" target="_blank">Sign-up <i class="icon-pencil"></i></a>
+		    <hr class="featurette-divider">
+        <h3>A Relay Carnival <span class="label label-warning">NEW</span></h3>
+		  <p class="lead">
+          Sunday, July 7, 2013 <br>
+          <strong>Where: </strong>Stonegate Outdoor Pool<br>
+		    <hr class="featurette-divider">
+        <h3>B Relay Carnival <span class="label label-warning">NEW</span></h3>
+		  <p class="lead">
+          Sunday, July 14, 2013<br>
+          Please sign-up with just a name. <br>
+          <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-brelay2" target="_blank">Sign-up <i class="icon-pencil"></i></a>
 			</p>
         </div><!-- /.span4 -->
 
