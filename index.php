@@ -94,9 +94,12 @@
           <h3>B Meet vs. Mill Creeke Town <span class="label label-warning">NEW</span></h3>
           <p class="lead">
             Wednesday, July 3, 2013<br>
+			Swimmers arrive at 4:45pm.  <br>
+			Volunteers arrive 5:15-5:30. <br>
+			<strong> Theme: </strong>  Harlem Shake. Dress Crazy! <br>
+			<img src="img/harlem-shake.png" alt=""/>
 		      <p>
-            <a class="btn" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer7" target="_blank">Swimmer Sign-up <i class="icon-user"></i></a>
-            <a class="btn btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil icon-white"></i></a>
+            <a class="btn" href="pdf/mct-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>Relay Starts Practice <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">
@@ -107,6 +110,7 @@
           <h3>Pot Luck & Pep Rally <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">
 			      Friday, July 5, 2013 from 6:00-8:00 pm<br>
+				  
           <hr class="featurette-divider">
           <h3>A Meet vs. Stonegate <span class="label label-warning">NEW</span></h3>
           <p class="lead">
@@ -114,6 +118,18 @@
             <strong>Where: </strong>Upper County Outdoor Pool<br>
             <strong>Warm-ups: </strong>7:30 am<br>
             <strong>Meet starts: </strong>9:00 am
+		  <hr class="featurette-divider">
+          <h3>A Relay Carnival <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">
+			      Sunday, July 7, 2013 <br>
+				  <strong>Where: </strong>Stonegate Outdoor Pool<br>
+		  <hr class="featurette-divider">
+          <h3>B Relay Carnival <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">
+			      Sunday, July 14, 2013<br>
+				  Please sign-up with just a name. <br>
+			  </p>
+				  <a class="btn-primary" href="http://www.signupgenius.com/go/10C0D4DABA62B0-brelay2" target="_blank">Sign-up <i class="icon-user"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
