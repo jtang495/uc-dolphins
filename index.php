@@ -66,7 +66,14 @@
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
     		  <hr class="featurette-divider">
-          <h3>A Meet vs. Darnestown <span class="label label-warning">NEW</span></h3>
+          <h3>B Meet vs. Mill Creeke Town</h3>
+		      <p class="lead">  
+            Wednesday, July 3, 2013<br>
+            <strong>Final Score: </strong>UC 380 - 455 MCT
+		      <p>
+            <a class="btn btn-primary" href="pdf/mct-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>A Meet vs. Darnestown</h3>
 			    <p class="lead">  
             Saturday, June 29, 2013<br>
             <strong>Final Score: </strong> UC 512 - 280 DT
@@ -90,28 +97,6 @@
 
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
-		  <hr class="featurette-divider">
-          <h3>B Meet vs. Mill Creek Town <span class="label label-warning">NEW</span></h3>
-		<p class="lead">  
-            Wednesday, July 3, 2013<br>
-            <strong>Final Score: </strong> UC 380 - 455 MCT
-		<p>
-            <a class="btn btn-info" href="pdf/mct-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>B Meet vs. Mill Creeke Town <span class="label label-warning">NEW</span></h3>
-			    <p class="lead">
-            Wednesday, July 3, 2013<br>
-            <strong>Where: </strong>Upper County Outdoor Pool<br>
-            <strong>Warm-ups: </strong>4:45 pm<br>
-            <strong>Volunteers arrive: </strong>5:15 pm<br>
-			    <p>
-            <a class="btn btn-primary" href="pdf/mct-program.pdf" target="_blank">Program <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>Relay Starts Practice <span class="label label-warning">NEW</span></h3>
-			    <p class="lead">
-            Thursday, July 4th, 2013<br>
-            11 & Overs: 8:30-9:30 am<br>
-            10 & Unders: 9:30-10:30 am<br>
           <hr class="featurette-divider">
           <h3>Pot Luck & Pep Rally <span class="label label-warning">NEW</span></h3>
 			    <p class="lead">
