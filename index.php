@@ -90,6 +90,13 @@
 
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
+		  <hr class="featurette-divider">
+          <h3>B Meet vs. Mill Creek Town <span class="label label-warning">NEW</span></h3>
+		<p class="lead">  
+            Wednesday, July 3, 2013<br>
+            <strong>Final Score: </strong> UC 380 - 455 MCT
+		<p>
+            <a class="btn btn-info" href="pdf/mct-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
           <h3>B Meet vs. Mill Creeke Town <span class="label label-warning">NEW</span></h3>
 			    <p class="lead">
