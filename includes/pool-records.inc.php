@@ -25,6 +25,16 @@
     <td>Caroline Clark (MCT)
     <td>2
   <tr>
+    <th>3
+    <th>Stonegate Serpents
+    <th>Jul 23, 2011
+    <th>1:52.80
+    <th>Open 200m Medley Relay
+    <th>2:04.91
+    <th>Jul 23, 2011
+    <th>Mill Creek Towne
+    <th>4
+  <tr>
     <td>5
     <td>Timmy Ellett (TW)
     <td>Jun 20, 2009
@@ -48,7 +58,7 @@
     <td>9
     <td>Brandon Cu (UC)
     <td>Jun 15, 2013
-    <td>25.46 <span class="label label-warning">NEW</span>
+    <td>25.34 <span class="label label-warning">NEW</span>
     <td>13-14 50m Free
     <td>27.76
     <td>Jun 19, 2004
@@ -58,7 +68,7 @@
     <td>11
     <td>Daniel Chapman (UC)
     <td>Jun 15, 2013
-    <td>28.13 <span class="label label-warning">NEW</span>
+    <td>27.94 <span class="label label-warning">NEW</span>
     <td>11-12 50m Free
     <td>29.17
     <td>Jun 26, 2010
@@ -126,9 +136,9 @@
     <td>24
   <tr>
     <td>25
-    <td>John Jeang (RV)
-    <td>Jul 23, 2011
-    <td>29.87
+    <td>Brandon Cu (UC)
+    <td>Jul 06, 2013
+    <td>29.06 <span class="label label-warning">NEW</span>
     <td>13-14 50m Back
     <td>30.60
     <td>Jun 19, 2004
@@ -176,9 +186,9 @@
     <td>34
   <tr>
     <td>35
-    <td>Harrison Gu (RV)
-    <td>Jun 26, 2010
-    <td>32.19
+    <td>Ryan O'Leary (UC)
+    <td>Jul 06, 2013
+    <td>31.75 <span class="label label-warning">NEW</span>
     <td>13-14 50m Breast
     <td>34.67
     <td>Jul 12, 2008
@@ -231,8 +241,8 @@
     <td>27.55
     <td>13-14 50m Fly
     <td>30.13
-    <td>Jul 23, 2011
-    <td>Scarlett Sun (RV)
+    <td>Jul 23, 2011 - Jul 06, 2013
+    <td>Scarlett Sun(RV), Emily Wang(UC) <span class="label label-warning">NEW</span>
     <td>46
   <tr>
     <td>47
@@ -244,4 +254,14 @@
     <td>Jun 26, 2010
     <td>Cara Chuang (RV)
     <td>48
+  <tr>
+    <td>49
+    <td>Rockville
+    <td>Jul 23, 2011
+    <td>1:41.31
+    <td>14 & Under 175m Graduated Relay
+    <td>1:46.87
+    <td>Jul 23, 2011
+    <td>Rockville
+    <td>50
 </table>
