@@ -21,7 +21,7 @@
     <td>12 & Under 100m IM
     <td>1:11.32
     <td>Jun 23, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>2
   <tr>
     <th>3
@@ -41,7 +41,7 @@
     <td>8 & Under 25m Free
     <td>16.80
     <td>Jun 14, 2008
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>6
   <tr>
     <td>7
@@ -51,7 +51,7 @@
     <td>9-10 50m Free
     <td>31.42
     <td>Jul 17, 2010
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>8
   <tr>
     <td>9
@@ -71,7 +71,7 @@
     <td>11-12 50m Free
     <td>29.49
     <td>Jun 16, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>12
   <tr>
     <td>13
@@ -101,7 +101,7 @@
     <td>8 & Under 25m Back
     <td>20.27
     <td>Jul 05, 2008
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>20
   <tr>
     <td>19
@@ -111,7 +111,7 @@
     <td>9-10 25m Back
     <td>16.29 <span class="label label-info">MCSL</span>
     <td>Jun 26, 2010
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>22
   <tr>
     <td>21
@@ -131,7 +131,7 @@
     <td>11-12 50m Back
     <td>31.65 
     <td>Jul 29, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>24
   <tr>
     <td>25
@@ -141,7 +141,7 @@
     <td>13-14 50m Back
     <td>31.72 <span class="label label-warning">NEW</span>
     <td>Jul 06, 2013
-    <td>Emily Wang
+    <td>Emily T. Wang
     <td>26
   <tr>
     <td>27
@@ -211,7 +211,7 @@
     <td>8 & Under 25m Fly
     <td>18.45
     <td>Jun 14, 2008
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>40
   <tr>
     <td>41
@@ -221,7 +221,7 @@
     <td>9-10 25m Fly
     <td>15.86
     <td>Jun 19, 2010
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>42
   <tr>
     <td>43
@@ -231,7 +231,7 @@
     <td>11-12 50m Fly
     <td>30.43
     <td>Jul 29, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>44
   <tr>
     <td>45
@@ -241,7 +241,7 @@
     <td>13-14 50m Fly
     <td>30.13 <span class="label label-warning">NEW</span>
     <td>Jul 06, 2013
-    <td>Emily Wang
+    <td>Emily T. Wang
     <td>46
   <tr>
     <td>47
@@ -261,6 +261,6 @@
     <td>14 & Under 175m Graduated Relay
     <td>1:49.99
     <td>Jul 28, 2012
-    <td>Michelle Gu, Emily Wang, Dorit Song, Jasmine Cu
+    <td>Michelle Gu, Emily T. Wang, Dorit Song, Jasmine Cu
     <td>50
 </table>

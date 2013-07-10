@@ -112,7 +112,7 @@
     <td>9-10 25m Back
     <td>16.29 <span class="label label-info">MCSL</span>
     <td>Jun 26, 2010
-    <td>Emily T Wang (UC)
+    <td>Emily T. Wang (UC)
     <td>22
   <tr>
     <td>21
@@ -132,7 +132,7 @@
     <td>11-12 50m Back
     <td>32.03
     <td>Jul 14, 2012
-    <td>Emily T Wang (UC)
+    <td>Emily T. Wang (UC)
     <td>24
   <tr>
     <td>25
@@ -212,7 +212,7 @@
     <td>8 & Under 25m Fly
     <td>18.45
     <td>Jun 14, 2008
-    <td>Emily T Wang (UC)
+    <td>Emily T. Wang (UC)
     <td>40
   <tr>
     <td>41
@@ -232,7 +232,7 @@
     <td>11-12 50m Fly
     <td>31.98
     <td>Jun 23, 2012
-    <td>Emily T Wang (UC)
+    <td>Emily T. Wang (UC)
     <td>44
   <tr>
     <td>45
@@ -242,7 +242,7 @@
     <td>13-14 50m Fly
     <td>30.13
     <td>Jul 23, 2011 - Jul 06, 2013
-    <td>Scarlett Sun(RV), Emily Wang(UC) <span class="label label-warning">NEW</span>
+    <td>Scarlett Sun(RV), Emily T. Wang (UC) <span class="label label-warning">NEW</span>
     <td>46
   <tr>
     <td>47
