@@ -24,15 +24,15 @@
     <td>Emily T. Wang
     <td>2
   <tr>
-    <th>3
-    <th>Jesse Cunningham, Yang Yang, Jeffrey Lin, Cameron Hedquist
-    <th>Jul 5, 2008
-    <th>1:50.13
-    <th>Open 200m Medley Relay
-    <th>2:07.35 <span class="label label-warning">NEW</span>
-    <th>Jul 06, 2013
-    <th>Carly Alvarado, Diana Hanson, Dorit Song, Rosannah Petit
-    <th>4
+    <td>3
+    <td>Jesse Cunningham, Yang Yang, Jeffrey Lin, Cameron Hedquist
+    <td>Jul 5, 2008
+    <td>1:50.13
+    <td>Open 200m Medley Relay
+    <td>2:07.35 <span class="label label-warning">NEW</span>
+    <td>Jul 06, 2013
+    <td>Carly Alvarado, Diana Hanson, Dorit Song, Rosannah Petit
+    <td>4
   <tr>
     <td>5
     <td>Leo Seen

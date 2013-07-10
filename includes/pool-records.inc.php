@@ -25,15 +25,15 @@
     <td>Caroline Clark (MCT)
     <td>2
   <tr>
-    <th>3
-    <th>Stonegate Serpents
-    <th>Jul 23, 2011
-    <th>1:52.80
-    <th>Open 200m Medley Relay
-    <th>2:04.91
-    <th>Jul 23, 2011
-    <th>Mill Creek Towne
-    <th>4
+    <td>3
+    <td>Stonegate Serpents
+    <td>Jul 23, 2011
+    <td>1:52.80
+    <td>Open 200m Medley Relay
+    <td>2:04.91
+    <td>Jul 23, 2011
+    <td>Mill Creek Towne
+    <td>4
   <tr>
     <td>5
     <td>Timmy Ellett (TW)
