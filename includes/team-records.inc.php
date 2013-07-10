@@ -21,8 +21,18 @@
     <td>12 & Under 100m IM
     <td>1:11.32
     <td>Jun 23, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>2
+  <tr>
+    <th>3
+    <th>Jesse Cunningham, Yang Yang, Jeffrey Lin, Cameron Hedquist
+    <th>Jul 5, 2008
+    <th>1:50.13
+    <th>Open 200m Medley Relay
+    <th>2:07.35 <span class="label label-warning">NEW</span>
+    <th>Jul 06, 2013
+    <th>Carly Alvarado, Diana Hanson, Dorit Song, Rosannah Petit
+    <th>4
   <tr>
     <td>5
     <td>Leo Seen
@@ -31,7 +41,7 @@
     <td>8 & Under 25m Free
     <td>16.80
     <td>Jun 14, 2008
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>6
   <tr>
     <td>7
@@ -41,13 +51,13 @@
     <td>9-10 50m Free
     <td>31.42
     <td>Jul 17, 2010
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>8
   <tr>
     <td>9
     <td>Jesse Cunningham
     <td>Jul 31, 2005
-    <td>25.37
+    <td>25.34
     <td>13-14 50m Free
     <td>28.25
     <td>Aug 04, 2002
@@ -61,7 +71,7 @@
     <td>11-12 50m Free
     <td>29.49
     <td>Jun 16, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>12
   <tr>
     <td>13
@@ -91,7 +101,7 @@
     <td>8 & Under 25m Back
     <td>20.27
     <td>Jul 05, 2008
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>20
   <tr>
     <td>19
@@ -101,7 +111,7 @@
     <td>9-10 25m Back
     <td>16.29 <span class="label label-info">MCSL</span>
     <td>Jun 26, 2010
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>22
   <tr>
     <td>21
@@ -109,29 +119,29 @@
     <td>Jul 30, 2006
     <td>1:01.56
     <td>15-18 100m Back
-    <td>1:08:33 <span class="label label-warning">NEW</span>
-    <td>Jun 29, 2013
+    <td>1:08:25 <span class="label label-warning">NEW</span>
+    <td>Jul 06, 2013
     <td>Carly Alvarado
     <td>22
   <tr>
     <td>23
     <td>Daniel Chapman
-    <td>Jun 15, 2013
+    <td>Jul 06, 2013
     <td>32.66 <span class="label label-warning">NEW</span>
     <td>11-12 50m Back
-    <td>31.65
+    <td>31.65 
     <td>Jul 29, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>24
   <tr>
     <td>25
     <td>Brandon Cu
-    <td>Jun 15, 2013
-    <td>29.93 <span class="label label-warning">NEW</span>
+    <td>Jul 06, 2013
+    <td>29.06 <span class="label label-warning">NEW</span>
     <td>13-14 50m Back
-    <td>31.93
-    <td>Jul 03, 2012
-    <td>Carly Alvarado
+    <td>31.72 <span class="label label-warning">NEW</span>
+    <td>Jul 06, 2013
+    <td>Emily T. Wang
     <td>26
   <tr>
     <td>27
@@ -175,9 +185,9 @@
     <td>34
   <tr>
     <td>35
-    <td>Jesse Cunningham
-    <td>Jul 31, 2005
-    <td>32.43
+    <td>Ryan O'Leary
+    <td>Jul 06, 2013
+    <td>31.75 <span class="label label-warning">NEW</span>
     <td>13-14 50m Breast
     <td>35.73
     <td>Aug 03, 2003
@@ -201,7 +211,7 @@
     <td>8 & Under 25m Fly
     <td>18.45
     <td>Jun 14, 2008
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>40
   <tr>
     <td>41
@@ -211,27 +221,27 @@
     <td>9-10 25m Fly
     <td>15.86
     <td>Jun 19, 2010
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>42
   <tr>
     <td>43
-    <td>Jesse Cunningham
-    <td>Jul 19, 2003
-    <td>31.55
+    <td>Daniel Chapman
+    <td>Jul 06, 2013
+    <td>30.68 <span class="label label-warning">NEW</span>
     <td>11-12 50m Fly
     <td>30.43
     <td>Jul 29, 2012
-    <td>Emily T Wang
+    <td>Emily T. Wang
     <td>44
   <tr>
     <td>45
     <td>Brandon Cu
     <td>Jun 29, 2013
-    <td>27.92 <span class="label label-warning">NEW</span>
+    <td>27.92 
     <td>13-14 50m Fly
-    <td>30.31
-    <td>Jul 29, 2012
-    <td>Dorit Song
+    <td>30.13 <span class="label label-warning">NEW</span>
+    <td>Jul 06, 2013
+    <td>Emily T. Wang
     <td>46
   <tr>
     <td>47
@@ -243,4 +253,14 @@
     <td>Jul 31, 2005
     <td>Kristin Cunningham
     <td>48
+  <tr>
+    <td>49
+    <td>Leo Seen, Daniel Chapman, Brandon Cu, Bryan Kim
+    <td>Jul 06, 2013
+    <td>1:47.78 <span class="label label-warning">NEW</span>
+    <td>14 & Under 175m Graduated Relay
+    <td>1:49.99
+    <td>Jul 28, 2012
+    <td>Michelle Gu, Emily T. Wang, Dorit Song, Jasmine Cu
+    <td>50
 </table>

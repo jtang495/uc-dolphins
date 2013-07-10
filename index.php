@@ -29,11 +29,6 @@
 
   <div class="container">
     <div class="marketing">
-      <div class="alert alert-success">
-        <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <strong>Upper County beats Stonegate for chance at division title!</strong>
-        Monday's practice will be a play day!
-      </div>
       <div class="row-fluid">
 
         <!-- Main column -->
@@ -73,15 +68,30 @@
             Wednesday, July 10, 2013<br>
             Swimmer sign-up closes on Monday at 5:00 pm.
           <p>
-            <a class="btn" href="//http://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil"></i></a>
-            <a class="btn btn-primary" href="//www.SignUpGenius.com/go/10C0D4DABA62B0-bmeetswimmer8/4929" target="_blank">Swimmer Sign-up <i class="icon-pencil icon-white"></i></a>
+            <a class="btn" href="https://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil"></i></a>
+            <a class="btn btn-primary" href="https://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer8/4929" target="_blank">Swimmer Sign-up <i class="icon-pencil icon-white"></i></a>
+          <hr class="featurette-divider">
+          <h3>Pool Party <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">  
+            <strong> Where:</strong> Upper County Pool<br>
+            <strong> When:</strong> Thursday, July 11, 2013, 7-8:00 pm<br>
+            Free Freeze Pops will be available! <br>
+          <p>
+          <hr class="featurette-divider">
+          <h3>Secret Swimmer Reveal & Outdoor Movie night <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">  
+            <strong> Where:</strong> Upper County Pool<br>
+            <strong> When:</strong> Sunday, July 14, 2013, 7-9:00 pm<br>
+            <strong> Movie:</strong> Lion King<br>
+            More info to follow.
+          <p>
           <hr class="featurette-divider">
           <h3>B Relay Carnival</h3>
           <p class="lead">
             Sunday, July 14, 2013<br>
             Please sign-up with just a name.<br>
           <p>
-            <a class="btn btn-primary" href="//www.signupgenius.com/go/10C0D4DABA62B0-brelay2" target="_blank">Swimmer Sign-up <i class="icon-pencil icon-white"></i></a>
+            <a class="btn btn-primary" href="https://www.signupgenius.com/go/10C0D4DABA62B0-brelay2" target="_blank">Swimmer Sign-up <i class="icon-pencil icon-white"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
