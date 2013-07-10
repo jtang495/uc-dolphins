@@ -78,16 +78,16 @@
           <hr class="featurette-divider">
           <h3>Pool Party <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">  
-            Where: Upper County Pool<br>
-            When: Thursday, July 11, 2013, 7-8:00 pm<br>
+            <strong> Where:</strong> Upper County Pool<br>
+            <strong> When:</strong> Thursday, July 11, 2013, 7-8:00 pm<br>
             Free Freeze Pops will be available! <br>
           <p>
           <hr class="featurette-divider">
           <h3>Secret Swimmer Reveal & Outdoor Movie night<span class="label label-warning">NEW</span></h3>
 		      <p class="lead">  
-            Where: Upper County Pool<br>
-            When: Sunday, July 14, 2013, 7-9:00 pm<br>
-            Movie: Lion King
+            <strong> Where:</strong> Upper County Pool<br>
+            <strong> When:</strong> Sunday, July 14, 2013, 7-9:00 pm<br>
+            <strong> Movie:</strong> Lion King
             More info to follow.
           <p>
           <hr class="featurette-divider">
