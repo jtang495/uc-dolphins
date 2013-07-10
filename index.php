@@ -29,11 +29,6 @@
 
   <div class="container">
     <div class="marketing">
-      <div class="alert alert-success">
-        <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <strong>Upper County beats Stonegate for chance at division title!</strong>
-        Monday's practice will be a play day!
-      </div>
       <div class="row-fluid">
 
         <!-- Main column -->
@@ -83,11 +78,11 @@
             Free Freeze Pops will be available! <br>
           <p>
           <hr class="featurette-divider">
-          <h3>Secret Swimmer Reveal & Outdoor Movie night<span class="label label-warning">NEW</span></h3>
+          <h3>Secret Swimmer Reveal & Outdoor Movie night <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">  
             <strong> Where:</strong> Upper County Pool<br>
             <strong> When:</strong> Sunday, July 14, 2013, 7-9:00 pm<br>
-            <strong> Movie:</strong> Lion King
+            <strong> Movie:</strong> Lion King<br>
             More info to follow.
           <p>
           <hr class="featurette-divider">
