@@ -35,7 +35,7 @@
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
     		  <hr class="featurette-divider">
-          <h3>A Relay Carnival <span class="label label-warning">NEW</span></h3>
+          <h3>A Relay Carnival</h3>
 		      <p class="lead">
             Sunday, July 7, 2013 <br>
             <strong>Final Score:</strong>
@@ -43,7 +43,7 @@
           <p>
             <a class="btn btn-primary" href="pdf/relay-a-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
           <hr class="featurette-divider">
-          <h3>A Meet vs. Stonegate <span class="label label-warning">NEW</span></h3>
+          <h3>A Meet vs. Stonegate</h3>
 			    <p class="lead">
             Saturday, July 6, 2013<br>
             <strong>Final Score: </strong><font color="green">UC 421.5</font> - <font color="red">370.5 SG</font>
@@ -63,14 +63,6 @@
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>B Meet vs. Hallowell <span class="label label-warning">NEW</span></h3>
-		      <p class="lead">  
-            Wednesday, July 10, 2013<br>
-            Swimmer sign-up closes on Monday at 5:00 pm.
-          <p>
-            <a class="btn" href="https://www.signupgenius.com/go/10C0D4DABA62B0-bmeetvolunteers2" target="_blank">Volunteer Sign-up <i class="icon-pencil"></i></a>
-            <a class="btn btn-primary" href="https://www.signupgenius.com/go/10C0D4DABA62B0-bmeetswimmer8/4929" target="_blank">Swimmer Sign-up <i class="icon-pencil icon-white"></i></a>
-          <hr class="featurette-divider">
           <h3>Pool Party <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">  
             <strong>Where:</strong> Upper County Pool<br>
@@ -89,9 +81,7 @@
           <h3>B Relay Carnival</h3>
           <p class="lead">
             Sunday, July 14, 2013<br>
-            Please sign-up with just a name.<br>
-          <p>
-            <a class="btn btn-primary" href="https://www.signupgenius.com/go/10C0D4DABA62B0-brelay2" target="_blank">Swimmer Sign-up <i class="icon-pencil icon-white"></i></a>
+            <strong>Where:</strong> Upper County Pool<br>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->
@@ -100,7 +90,7 @@
               <img class="img" src="img/calendar.png" width="150px">
               <h3>Stay up to date!</h3>
               <p>View the practice schedule, meets, team gatherings, and other important MCSL dates.</p>
-              <p><a class="btn" href="https://www.google.com/calendar/embed?src=l1sbfdasf9s3jnmd87mndhhltg%40group.calendar.google.com&ctz=America/New_York
+              <p><a class="btn" href="//www.google.com/calendar/embed?src=l1sbfdasf9s3jnmd87mndhhltg%40group.calendar.google.com&ctz=America/New_York
 " target="_blank">View Calendar &raquo;</a></p>
               <hr>
               <!-- TODO (yang): add alternate media. separate styling from scripting. -->
