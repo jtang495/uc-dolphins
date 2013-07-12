@@ -63,13 +63,6 @@
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Pool Party <span class="label label-warning">NEW</span></h3>
-		      <p class="lead">  
-            <strong>Where:</strong> Upper County Pool<br>
-            <strong>When:</strong> Thursday, July 11, 2013, 7:00-8:00 pm<br>
-            Free Freeze Pops will be available! <br>
-          <p>
-          <hr class="featurette-divider">
           <h3>Secret Swimmer Reveal & Outdoor Movie night <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">  
             <strong>Where:</strong> Upper County Pool<br>
