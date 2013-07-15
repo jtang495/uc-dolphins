@@ -79,6 +79,84 @@
           </div>
         </div><!-- /.hero-unit -->
       </div><!-- /.featurettes -->
+    <div class="featurette">
+        <a name="week3b"></a>
+        <div id="week3b" class="hero-unit left">
+          <div class="text-box">
+            <h3>WEEK 3B: vs. Damascus</h3>
+            <h4>Wednesday, July 3 2013</h4>
+            <p>
+              <a class="btn btn-large" href="pdf/da-program.pdf" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/da-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
+    <div class="featurette">
+        <a name="week4a"></a>
+        <div id="week4a" class="hero-unit left">
+          <div class="text-box">
+            <h3>WEEK 4A: vs. Stonegate</h3>
+            <h4>Saturday, July 6 2013</h4>
+            <h4><font color="green">UC 421.5</font> - <font color="red">370.5 SG</font></h4>
+            <p>
+              Upper County Dolphins beat the Stonegate Serpents after a close meet.
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/sg-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
+    <div class="featurette">
+        <a name="week4b"></a>
+        <div id="week4b" class="hero-unit left">
+          <div class="text-box">
+            <h3>WEEK 4B: vs. Hallowell</h3>
+            <h4>Wednesday, June 10 2013</h4>
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/ha-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
+    <div class="featurette">
+        <a name="week5a"></a>
+        <div id="week5a" class="hero-unit left">
+          <div class="text-box">
+            <h3>WEEK 5A: vs. Rockville</h3>
+            <h4>Saturday, June 13 2013</h4>
+            <h4><font color="green">UC 413</font> - <font color="red">379 RV</font></h4>
+            <p>
+              Upper County finishes its first undefeated season in Division A!
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/rv-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
+    <div class="featurette">
+        <a name="relaya"></a>
+        <div id="relaya" class="hero-unit left">
+          <div class="text-box">
+            <h3>Relay Carnival</h3>
+            <h4>Sunday, July 7 2013</h4>
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/relay-a-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
+    <div class="featurette">
+        <a name="coacheslc"></a>
+        <div id="coacheslc" class="hero-unit left">
+          <div class="text-box">
+            <h3>MCSL Coaches Long Course</h3>
+            <h4>Tuesday, July 9 2013</h4>
+            <p>
+              <a class="btn btn-largei disabled" href="#" target="_blank">Program <i class="icon-download"></i></a>
+              <a class="btn btn-large btn-primary" href="pdf/coaches-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
+          </div>
+        </div><!-- /.hero-unit -->
+      </div><!-- /.featurettes -->
     </div><!-- /.marketing -->
   </div><!-- /.container -->
   <div id="push"></div>
