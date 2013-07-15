@@ -115,9 +115,9 @@
     <td>22
   <tr>
     <td>21
-    <td>Jesse Cunningham
-    <td>Jul 30, 2006
-    <td>1:01.56
+    <td>Bouke Edskes
+    <td>Jul 13, 2013
+    <td>1:00.83 <span class="label label-warning">NEW</span>
     <td>15-18 100m Back
     <td>1:08:25 <span class="label label-warning">NEW</span>
     <td>Jul 06, 2013
@@ -137,7 +137,7 @@
     <td>25
     <td>Brandon Cu
     <td>Jul 06, 2013
-    <td>29.06 <span class="label label-warning">NEW</span>
+    <td>28.91 <span class="label label-warning">NEW</span>
     <td>13-14 50m Back
     <td>31.72 <span class="label label-warning">NEW</span>
     <td>Jul 06, 2013
@@ -149,8 +149,8 @@
     <td>Jun 26, 2010
     <td>1:01.57
     <td>15-18 100m IM
-    <td>1:07.80
-    <td>Jul 23, 2011
+    <td>1:07.75 <span class="label label-warning">NEW</span>
+    <td>Jul 13, 2013 
     <td>Diana Hanson
     <td>28
   <tr>
@@ -186,8 +186,8 @@
   <tr>
     <td>35
     <td>Ryan O'Leary
-    <td>Jul 06, 2013
-    <td>31.75 <span class="label label-warning">NEW</span>
+    <td>Jul 13, 2013
+    <td>31.72 <span class="label label-warning">NEW</span>
     <td>13-14 50m Breast
     <td>35.73
     <td>Aug 03, 2003
@@ -255,9 +255,9 @@
     <td>48
   <tr>
     <td>49
-    <td>Leo Seen, Daniel Chapman, Brandon Cu, Bryan Kim
-    <td>Jul 06, 2013
-    <td>1:47.78 <span class="label label-warning">NEW</span>
+    <td>Jason Liu, Daniel Chapman, Brandon Cu, Bryan Kim
+    <td>Jul 13, 2013
+    <td>1:46.20 <span class="label label-warning">NEW</span>
     <td>14 & Under 175m Graduated Relay
     <td>1:49.99
     <td>Jul 28, 2012
