@@ -196,8 +196,8 @@
   <tr>
     <td>37
     <td>Eric Lin
-    <td>Jul 03, 2012
-    <td>1:09.01
+    <td>Jul 13, 2013
+    <td>1:08.48 <span class="label label-warning">NEW</span>
     <td>15-18 100m Breast
     <td>1:15.11
     <td>Jun 26, 2010
