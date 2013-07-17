@@ -55,9 +55,9 @@
     <td>8
   <tr>
     <td>9
-    <td>Jesse Cunningham
-    <td>Jul 31, 2005
-    <td>25.34
+    <td>Brandon Cu 
+    <td>Jun 15, 2013
+    <td>25.34 <span class="label label-warning">NEW</span>
     <td>13-14 50m Free
     <td>28.25
     <td>Aug 04, 2002
