@@ -237,7 +237,7 @@
     <td>45
     <td>Brandon Cu
     <td>Jun 29, 2013
-    <td>27.92 
+    <td>27.92 <span class="label label-warning">NEW</span>
     <td>13-14 50m Fly
     <td>30.13 <span class="label label-warning">NEW</span>
     <td>Jul 06, 2013
