@@ -42,14 +42,14 @@
               <li><a href="results.php#week2b">Week 2: vs. Olney Mill</a>
               <li><a href="results.php#week3b">Week 3: vs. Mill Creek Towne</a>
               <li><a href="results.php#week4b">Week 4: vs. Hallowell</a>
-              <li class="disabled"><a href="#">Week 5: vs. Flower Valley</a>
-              <li class="disabled"><a href="#">Relay Carnival</a>
+              <li><a href="results.php#week5b">Week 5: vs. Flower Valley</a>
+              <li><a href="results.php#relayb">Relay Carnival</a>
               <li class="divider">
               <li class ="nav-header">Championship Meets
               <li><a href="results.php#coacheslc">MCSL Coaches Long Course</a>
-              <li class="disabled"><a href="#">Divisional Championships</a>
-              <li class="disabled"><a href="#">MCSL All-Star Relays</a>
-              <li class="disabled"><a href="#">MCSL All-Star Individuals</a>
+              <li><a href="results.php#divisionals">Divisional Championships</a>
+              <li><a href="results.php#allstarindividual">MCSL All-Star Relays</a>
+              <li><a href="results.php#allstarrelay">MCSL All-Star Individuals</a>
             </ul>
           <li><a href="coaches.php">Coaches</a>
           <li><a href="records.php">Records</a>

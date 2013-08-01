@@ -35,57 +35,24 @@
         <div class="span4">
           <h2 class="featurette-heading">Announcements</h2>
           <hr class="featurette-divider">
+          <h1>Upper County finishes off the season 5-0 in A Division!</h3> <span class="label label-warning">NEW</span></h3>
+		      <p class="lead">
+            Check out next year's division rankings<br>
+            Get ready for the 2014 season!<br>
+            <a class="btn" href="http://mcslorg0000.web802.discountasp.net/teamdiv/Div_2014.pdf" target="_blank">2014 Division Rankings <i class="icon-link icon-white"></i></a>
+          <p>
+          <hr class="featurette-divider">
           <h3>A Meet vs. Rockville</h3> <span class="label label-warning">NEW</span></h3>
 		      <p class="lead">
             Sunday, July 13, 2013 <br>
             <strong>Final Score:</strong>
             <strong>Final Score: </strong><font color="green">UC 413</font> - <font color="red">379 RV</font>
           <p>
-            <a class="btn btn-primary" href="pdf/rv-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>    
-    		  <hr class="featurette-divider">
-          <h3>B Meet vs. Hallowell</h3> <span class="label label-warning">NEW</span></h3>
-		      <p class="lead">
-            Sunday, July 10, 2013 <br>
-            <strong>Final Score:</strong>
-            <strong>Final Score: </strong><font color="green">HA 442.5</font> - <font color="red">243.5 UC</font>
-          <p>
-            <a class="btn btn-primary" href="pdf/relay-a-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>          
-    		  <hr class="featurette-divider">
-          <h3>A Relay Carnival</h3>
-		      <p class="lead">
-            Sunday, July 7, 2013 <br>
-            <strong>Final Score:</strong>
-            <font color="green">UC 178</font> (2nd place)
-          <p>
-            <a class="btn btn-primary" href="pdf/relay-a-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
-          <hr class="featurette-divider">
-          <h3>A Meet vs. Stonegate</h3>
-			    <p class="lead">
-            Saturday, July 6, 2013<br>
-            <strong>Final Score: </strong><font color="green">UC 421.5</font> - <font color="red">370.5 SG</font>
-          <p>  
-            <a class="btn" href="pdf/sg-program.pdf" target="_blank">Program <i class="icon-download"></i></a>
-            <a class="btn btn-primary" href="pdf/sg-results.pdf" target="_blank">Results <i class="icon-download icon-white"></i></a>
 		      <hr class="featurette-divider">
         </div><!-- /.span4 -->
-
         <div class="span5">
           <h2 class="featurette-heading">Upcoming Events</h2>
           <hr class="featurette-divider">
-          <h3>Divisionals <span class="label label-warning">NEW</span></h3>
-		      <p class="lead">  
-            <strong>Where:</strong> Upper County Pool<br>
-            <strong>When:</strong> Saturday, July 20, 2013<br>
-          <hr class="featurette-divider">
-          <h3>Team Banquet <span class="label label-warning">NEW</span></h3>
-		      <p class="lead">  
-            <strong>Where:</strong> Shady Grove Middle School<br>
-            <strong>When:</strong> Saturday July 20th, 6-9pm<br>
-            <strong>Cake Decorating Contest:</strong> Favorite college themed cake.<br>
-            <strong>Drinks:</strong> Please bring your own drinks.<br>
-            <strong>Food:</strong> Order from Basil's Pizza and China Jade.<br>
-            Fill out attached order form below and put in banquet folder.<br>
-            <a class="btn" href="pdf/banquet-order-form.pdf" target="_blank">Food Order Form <i class="icon-download icon-white"></i></a>
         </div><!-- /.span4 -->
 
         <!-- Sidebar -->

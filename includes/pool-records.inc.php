@@ -16,9 +16,9 @@
     <th>Event Number
   <tr>
     <td>1
-    <td>Devin Truong (RV)
-    <td>Jul 23, 2011
-    <td>1:06.17
+    <td>John Clado (RV)
+    <td>Jul 20, 2013
+    <td>1:06.00 <span class="label label-warning">NEW</span>
     <td>12 & Under 100m IM
     <td>1:09.84
     <td>Jun 14, 2008
@@ -66,9 +66,9 @@
     <td>10
   <tr>
     <td>11
-    <td>Daniel Chapman (UC)
-    <td>Jun 15, 2013
-    <td>27.94 <span class="label label-warning">NEW</span>
+    <td>Timmy Ellett (TW)
+    <td>Jun 20, 2013
+    <td>27.72 <span class="label label-warning">NEW</span>
     <td>11-12 50m Free
     <td>29.17
     <td>Jun 26, 2010
@@ -150,9 +150,9 @@
     <td>Jul 21, 2007
     <td>1:00.52
     <td>15-18 100m IM
-    <td>1:07.23
-    <td>Jun 26, 2010
-    <td>Cara Chuang (RV)
+    <td>1:07.07 <span class="label label-warning">NEW</span>
+    <td>Jun 20, 2013
+    <td>Jessica Chen (RV)
     <td>28
   <tr>
     <td>29
@@ -260,8 +260,8 @@
     <td>Jul 23, 2011
     <td>1:41.31
     <td>14 & Under 175m Graduated Relay
-    <td>1:46.87
-    <td>Jul 23, 2011
-    <td>Rockville
+    <td>1:46.40 <span class="label label-warning">MCSL</span>
+    <td>Jul 20, 2013
+    <td>Stonegate
     <td>50
 </table>

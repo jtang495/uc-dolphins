@@ -29,8 +29,8 @@
     <td>Jul 5, 2008
     <td>1:50.13
     <td>Open 200m Medley Relay
-    <td>2:07.35 <span class="label label-warning">NEW</span>
-    <td>Jul 06, 2013
+    <td>2:05.63 <span class="label label-warning">NEW</span>
+    <td>Jul 20, 2013
     <td>Carly Alvarado, Diana Hanson, Dorit Song, Rosannah Petit
     <td>4
   <tr>
@@ -56,8 +56,8 @@
   <tr>
     <td>9
     <td>Brandon Cu 
-    <td>Jun 15, 2013
-    <td>25.34 <span class="label label-warning">NEW</span>
+    <td>Jul 28, 2013
+    <td>25.05 <span class="label label-warning">NEW</span>
     <td>13-14 50m Free
     <td>28.25
     <td>Aug 04, 2002
@@ -116,18 +116,18 @@
   <tr>
     <td>21
     <td>Bouke Edskes
-    <td>Jul 13, 2013
-    <td>1:00.83 <span class="label label-warning">NEW</span>
+    <td>Jul 28, 2013
+    <td>1:00.42 <span class="label label-warning">NEW</span>
     <td>15-18 100m Back
-    <td>1:08:25 <span class="label label-warning">NEW</span>
-    <td>Jul 06, 2013
+    <td>1:07:93 <span class="label label-warning">NEW</span>
+    <td>Jul 28, 2013
     <td>Carly Alvarado
     <td>22
   <tr>
     <td>23
     <td>Daniel Chapman
-    <td>Jul 06, 2013
-    <td>32.66 <span class="label label-warning">NEW</span>
+    <td>Jul 20, 2013
+    <td>32.65 <span class="label label-warning">NEW</span>
     <td>11-12 50m Back
     <td>31.65 
     <td>Jul 29, 2012
@@ -139,8 +139,8 @@
     <td>Jul 06, 2013
     <td>28.91 <span class="label label-warning">NEW</span>
     <td>13-14 50m Back
-    <td>31.72 <span class="label label-warning">NEW</span>
-    <td>Jul 06, 2013
+    <td>31.09 <span class="label label-warning">NEW</span>
+    <td>Jul 28, 2013
     <td>Emily T. Wang
     <td>26
   <tr>
@@ -186,8 +186,8 @@
   <tr>
     <td>35
     <td>Ryan O'Leary
-    <td>Jul 13, 2013
-    <td>31.72 <span class="label label-warning">NEW</span>
+    <td>Jul 28, 2013
+    <td>31.45 <span class="label label-warning">NEW</span>
     <td>13-14 50m Breast
     <td>35.73
     <td>Aug 03, 2003
@@ -239,8 +239,8 @@
     <td>Jun 29, 2013
     <td>27.92 <span class="label label-warning">NEW</span>
     <td>13-14 50m Fly
-    <td>30.13 <span class="label label-warning">NEW</span>
-    <td>Jul 06, 2013
+    <td>29.73 <span class="label label-warning">NEW</span>
+    <td>Jul 28, 2013
     <td>Emily T. Wang
     <td>46
   <tr>
